@@ -1,0 +1,65 @@
+ <page>
+    <title>Pátria</title>
+    <ns>0</ns>
+    <id>1017</id>
+    <revision>
+      <id>6647906</id>
+      <parentid>6563139</parentid>
+      <timestamp>2013-04-06T05:56:53Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>441473</id>
+      </contributor>
+      <minor />
+      <comment>[[Pengguna:Addbot|Bot:]] Migrasi 28 pranala interwiki, karena telah disediakan oleh [[Wikipedia:Wikidata|Wikidata]] pada item [[d:q327746]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox Anthem
+|title         = Pátria
+|alt_title     = 
+|prefix        = National
+|country       = {{TLS}}
+|composer      = Afonso de Araujo
+|author        = Francisco Borja da Costa
+|lyrics_date   = [[1975]]
+|adopted       = [[2002]]
+|sound         = National anthem of East Timor.ogg|center
+|sound_title   = 
+|until         =
+}}
+
+'''''Pátria''''' adalah [[lagu kebangsaan]] [[Timor Leste]]. Liriknya ditulis oleh Francisco Borja da Costa sementara lagunya digubah Afonso de Araujo pada tahun [[1975]], lagu ini dijadikan lagu kebangsaan pada tahun [[2002]]. Lagu ini hanya dinyanyikan dalam versi [[bahasa Portugis]] dan belum mempunyai versi [[bahasa Tetun]] yang merupakan salah satu bahasa nasional [[Timor Leste]].
+
+== Lirik asli dalam Bahasa Portugis ==
+{{br}}Pátria, Pátria, Timor-Leste, nossa Nação. {{br}}
+Glória ao povo e aos heróis da nossa libertação. {{br}}
+Pátria, Pátria, Timor-Leste, nossa Nação. {{br}}
+Glória ao povo e aos heróis da nossa libertação. {{br}}
+Vencemos o colonialismo, gritamos: {{br}}
+abaixo o imperialismo. {{br}}
+Terra livre, povo livre, {{br}}
+não, não, não à exploração. {{br}}
+Avante unidos firmes e decididos.{{br}}
+Na luta contra o imperialismo {{br}}
+o inimigo dos povos, até à vitória final. {{br}}
+Pelo caminho da revolução. {{br}}
+
+== Terjemahan Bahasa Indonesia ==
+: Tanah air, tanah air, Timor Leste negara kita,
+: Kejayaan bagi rakyat dan pejuang-pejuang kemerdekaan
+: Tanah air, tanah air, Timor Leste negara kita,
+: Kejayaan bagi rakyat dan pejuang-pejuang kebebasan
+: Kita taklukkan kolonialisme, Kita berseru:
+: &quot;Hancurkan Imperialisme!&quot;
+: Negeri merdeka, rakyat merdeka, 
+: katakan tidak, tidak, tidak kepada penindasan. 
+: Majulah semua, bersatu teguh, penuh ketekatan
+: Dalam perjuangan menentang imperialisme,
+: musuh rakyat, Menuju kemenangan terakhir, 
+: maju ke revolusi.
+
+[[Kategori:Lagu kebangsaan]]
+[[Kategori:Timor Leste]]</text>
+      <sha1>daih8u76badb4v3clbu9lwquqce756f</sha1>
+    </revision>
+  </page>

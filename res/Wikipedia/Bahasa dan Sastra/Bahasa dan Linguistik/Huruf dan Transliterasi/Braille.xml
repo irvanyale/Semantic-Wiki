@@ -1,0 +1,162 @@
+<artikel>
+	<judul>
+Braille
+</judul>
+<isi>
+"PREMIER"
+
+Huruf Braille adalah sejenis sistem tulisan sentuh yang digunakan oleh orang buta. Sistem ini diciptakan oleh seorang Perancis yang bernama Louis Braille yang buta disebabkan kebutaan waktu kecil. Ketika berusia 15 tahun, Braille membuat suatu tulisan tentara untuk memudahkan tentara untuk membaca ketika gelap. Tulisan ini dinamakan huruf Braille. Namun ketika itu Braille tidak mempunyai huruf W.
+Sejarah Huruf Braille
+
+Munculnya inspirasi untuk menciptakan huruf-huruf yang dapat dibaca oleh orang buta berawal dari seorang bekas perwira artileri Napoleon, Kapten Charles Barbier. Barbier menggunakan sandi berupa garis-garis dan titik-titik timbul untuk memberikan pesan ataupun perintah kepada serdadunya dalam kondisi gelap malam. Pesan tersebut dibaca dengan cara meraba rangkaian kombinasi garis dan titik yang tersusun menjadi sebuah kalimat. Sistem demikian kemudian dikenal dengan sebutan night writing atau tulisan malam.
+
+Demi menyesuaikan kebutuhan para tunanetra, Louis Braille mengadakan uji coba garis dan titik timbul Barbier kepada beberapa kawan tunanetra. Pada kenyataannya, jari-jari tangan mereka lebih peka terhadap titik dibandingkan garis sehingga pada akhirnya huruf-huruf Braille hanya menggunakan kombinasi antara titik dan ruang kosong atau spasi. Sistem tulisan Braille pertama kali digunakan di L’Institution Nationale des Jeunes Aveugles, Paris, dalam rangka mengajar siswa-siswa tunanetra.
+
+Kontroversi mengenai kegunaan huruf Braille di Perancis sempat muncul hingga berujung pada pemecatan Dr. Pignier sebagai kepala lembaga dan larangan penggunaan tulisan Braille di tempat Louis mengajar. Karena sistem baca dan penulisan yang tidak lazim, sulit untuk meyakinkan masyarakat mengenai kegunaan dari huruf Braille bagi kaum tunanetra. Salah satu penentang tulisan Braille adalah Dr. Dufau, asisten direktur L’Institution Nationale des Jeunes Aveugles. Dufau kemudian diangkat menjadi kepala lembaga yang baru. Untuk memperkuat gerakan anti-Braille, semua buku dan transkrip yang ditulis dalam huruf Braille dibakar dan disita. Namun dikarenakan perkembangan murid-murid tunanetra yang begitu cepat sebagai bukti dari kegunaan huruf Braille, menjelang tahun 1847 sistem tulisan tersebut diperbolehkan kembali.
+
+Pada tahun 1851 tulisan Braille diajukan pada pemerintah negara Perancis agar diakui secara sah oleh pemerintah. Sejak saat itu penggunaan huruf Braille mulai berkembang luas hingga mencapai negara-negara lain. Pada akhir abad ke-19 sistem tulisan ini diakui secara universal dan diberi nama ‘tulisan Braille’. Pada tahun 1956, Dewan Dunia untuk Kesejahteraan Tunanetra (The World Council for the Welfare of the Blind) menjadikan bekas rumah Louis Braille sebagai museum. Kediaman tersebut terletak di Coupvray, 40 km sebelah timur Paris.
+Sistem Huruf Braille
+
+(GAR 0606094320) Sistem tulisan Braille mencapai taraf kesempurnaan pada tahun 1834. Huruf-huruf Braille menggunakan kerangka penulisan seperti kartu domino. Satuan dasar dari sistem tulisan ini disebut sel Braille, di mana tiap sel terdiri dari enam titik timbul; tiga baris dengan dua titik. Keenam titik tersebut dapat disusun sedemikian rupa hingga menciptakan 64 macam kombinasi. Huruf Braille dibaca dari kiri ke kanan dan dapat melambangkan abjad, tanda baca, angka, tanda musik, simbol matematika dan lainnya. Ukuran huruf Braille yang umum digunakan adalah dengan tinggi sepanjang 0.5 mm, serta spasi horizontal dan vertikal antar titik dalam sel sebesar 2.5 mm.
+Abjad Braille
+
+Braille terdiri dari sel yang mempunyai 6 titik timbul yang dinomorkan seperti berikut:
+
+dan kehadiran atau ketiadaan titik itu akan memberi kode untuk simbol tersebut. Huruf Braille Bahasa Melayu adalah hampir sama dengan kode huruf Braille Inggeris. Perkataan, simbol (seperti tanda seru dan tanda soal), beberapa perkataan dan suku kata bisa didapat secara terus. Contohnya perkataan orang disingkat menjadi org. Ini membolehkan buku Braille yang lebih tipis dicetak.
+
+Huruf Braille juga telah diperkaya sehingga dapat digunakan untuk membaca nota musik dan matematik. Kini Braille telah diubahsuai dengan menambah dua lagi titik menjadikan Braille menjadi kode 8 titik. Ini memudahkan pembaca Braille mengetahui huruf tersebut adalah huruf besar atau kecil. Selain itu, penukaran ini membolehkan huruf huruf ASCII dipertunjukkan dan kombinasi 8 titik ini diekodkan dalam standard Unicode.
+
+Braille boleh dihasilkan menggunakan batuan loh ( slate) dan stilus ( stylus ) di mana titik dihasilkan daripada belakang muka kertas, menulis dengan gambar cermin, menggunakan tangan, atau menggunakan mesin taip Braille yang dikenali sebagai Perkins Brailler. Braille juga dapat dihasilkan menggunakan mesin cetak Braille yang disambung kepada komputer.
+Huruf dan nomor
+									
+a/1 	b/2 	c/3 	d/4 	e/5 	f/6 	g/7 	h/8 	i/9 	j/0
+									
+k 	l 	m 	n 	o 	p 	q 	r 	s 	t
+									
+u 	v 	x 	y 	z 					w
+Mesin Ketik dan Cetak Huruf Braille
+Perkins Brailler
+
+(GAR 0606094320)Perkins Brailler adalah sebuah mesin rancangan David Abraham pada tahun 1952 yang digunakan untuk mengetik huruf Braille. Sistem pemakaiannya sangat mirip dengan mesin ketik biasa. Setiap abjad direpresentasikan oleh keenam titik-titik timbul Braille sehingga jika dirangkai dapat membentuk kata-kata. Selain kombinasi titik timbul huruf Braille, Perkins Brailler juga memiliki tombol spasi, tombol backspace untuk menghapus dan tombol spasi per baris. Layaknya mesin ketik manual, Perkins Brailler memiliki dua sisi alat putar untuk memasukkan dan mengeluarkan kertas.
+Mesin Cetak Huruf Braille
+
+Untuk mencetak buku maupun bahan bacaan dengan huruf Braille, dapat menggunakan seperangkat komputer dan mesin pencetak relief huruf Braille yang dihubungkan melalui paralel port yakni LPTI. Cara kerja komputer ini adalah mengetikkan abjad biasa ke dalam suatu program yang kelak akan mengubahnya menjadi huruf Braille. Hasil konversi kemudian tampil di layar dan siap untuk dicetak melalui sebuah mesin pencetak khusus relief Braille yang dilengkapi dengan mikrokontroler MCS 51. Kecepatan mencetak menggunakan mesin tersebut kira-kira 30 menit per halaman dengan 552 karakter.
+Rancangan Ponsel Berhuruf Braille
+
+(GAR 0606094320) Samsung membuat gebrakan besar dalam bidang komunikasi kaum tunanetra di era komputerisasi dengan ide brilyannya yang mengaplikasikan touch pad berhuruf Braille pada telepon genggam. Produk yang dikembangkan oleh salah satu Pusat Penelitian dan Pengembangan Samsung Global di Shanghai, Cina ini diberi nama Touch Messenger. Atas gagasan tersebut, Samsung berhasil meraih penghargaan tertinggi Gold Award pada forum IDEA: Industrial Design Excellence Award di bulan Agustus 2006.
+
+Ukuran prototipe Touch Messenger Samsung sebesar genggaman tangan orang dewasa dan sekilas tampak seperti perangkat pager. Para pengguna dapat mengetikkan rangkaian kata dengan jempol kanan dan kirinya. Di sisi bawah terdapat LCD layar display huruf Braille sejumlah empat belas karakter dalam sebaris, dan di sisi atas disediakan touch pad berupa sepasang penginput huruf Braille. Keenam titik timbul huruf Braille berada di atas pola grid standar.
+
+Kelebihan lain yang disediakan Samsung adalah kemampuan Touch Messenger untuk mengkonversi huruf Braille menjadi huruf biasa sehingga tidak hanya memungkinkan komunikasi bagi sesama kaum tunanetra, namun juga dengan khalayak luas pada umumnya. Gagasan touch pad yang digunakan dalam Touch Messenger dapat menjadi titik awal dari perkembangan papan ketik bagi pengguna komputer dengan keterbatasan penglihatan. Tidaklah aneh jika Samsung menyebut telepon genggam ini sebagai produk berteknologi tinggi yang berorientasi pada manusia (human-oriented high-tech product).
+Teknologi Berbasis Braille
+Nokia 770
+
+Nokia N770 Internet Tablet merupakan teknologi yang menerapkan aplikasi touchscreen huruf braille. Device touchscreen ini ditemukan oleh Jussi Rantala, University of Tampere, Finlandia. Di dalam alat ini telah ditanamkan material piezoelectric yang bisa memancarkan sinar elektrik. Selain itu, terdapat software untuk menampilkan titik vibrasi single pulse. Dalam penggunaannya, device ini bisa digunakan dalam dua cara, pertama dengan membaca matrix dari sisi kiri lalu jari bergerak horizontal untuk membaca lima titik lainnya. Kedua, pengguna menempatkan jari di layar dan menahannya lalu device akan menampilkan karakter dan enam titik akan digetarkan secara berulang selama 360 milidetik per titik. .[1]
+MLM
+
+MLM for the blind adalah alat baca untuk penyandang cacat mata, memiliki kemampuan untuk mengkonversi huruf latin ke huruf braille serta didukung dengan referensi ratusan ebook. Mesin menggunakan sumber energi baterai 6 x 1,5 Volt. dengan dimensi berat kurang dari 3 kilogram ini merupakan hasil pengembangan Universitas Bina Nusantara. Pengembangannya didasari ide bahwa pencetakan teks dengan huruf braille menghabiskan banyak kertas. MLM for The Blind memiliki titik-titik yang lebih menonjol jadi mudah diraba dan panel berisi 20 sel Braille. Selain itu dilengkapi kartu MMC atau Micro SD sebagai tempat penyimpanan ebook, maksimal 2 gigabite.[2]
+JAWS
+
+JAWS (Job Access With Speech) adalah software untuk membantu tuna netra dan low vision dalam menggunakan komputer terutama Microsoft Windows. Diproduksi oleh sebuah perusahaan di Florida, USA bernama The Blind and Low Vision Group. Pertama kali dirilis 1989 oleh Ted Hunter. Ia bersama rekannya, Rex Skipper mengkoding kode asli JAWS. Versi aslinya dibuat untuk sistem operasi MS-DOS yang memudahkan tuna netra dalam menggunakan program berbasis teks. Ketika sistem operasi MS-DOS mulai ditinggalkan karena berganti Microsoft Windows maka dibuatlah JFW (Jaws For Windows). Aplikasi ini dilengkapi juga dengan kemampuan untuk melafalkan teks dan braille display. Keyboard memiliki kemampuan untuk berinteraksi dengan layar monitor. Jumlah dan tipe informasi bisa diubah kedalam banyak aplikasi dengan menggunakan JAWS Scripting Language. Cara kerjanya, semua tulisan yang muncul pada layar akan dibaca kata per kata dengan logat Inggris. Program ini mendukung bahasa HTML, dialogue box, JAWS Tendem untuk mengakses komputerlain serta telah didukung iTunes dan iTunes Store.Saat ini bahkan telah mendukung kemampuan user interface. Kelemahannya adalah tidak mampu membaca grafik, gambar dan program flash. Selain itu pelafalan dalam logat bahasa Inggris masih menyulitkan pengguna Indonesia. Oleh karena itu, saat ini peneliti ITB mencoba untuk memodifikasi JAWS versi 7.10 sehingga bisa dikonversikan oleh openbook.[3]
+OOSH
+
+OOSH adalah jam tangan yang dikhususka bagi penderita tuna netra, karena selama belum banyak perusahaan yang secara khusus memproduksi jam tangan untuk orang buta. Jam tangan dengan 64 lubang yang bisa membentuk angka Braille dalam menyampaikan informasi waktu. Selain itu, jam ini dilengkapi dengan alarm yan bisa diset sesuai dengan keinginan pemakai. Produk ini adalah buah karya designer Wing Li selain caggih juga mempunyai motif yang halus dan mudah dalam pemakaiannya.
+Touch and Go
+
+Touch and Go adalah alat navigasi bagi orang buta yang memiliki akses ke perangkat bluetooth dan gadget high tech lainnya sehingga dapat memberikan gambaran lingkungan sekitar melalui visual taktil dan pendengaran. Hampir sama dengan OOSH.
+Interface Squibble Portable Braille
+
+Interface Squibble Portable Braille merupakan gadget terbaru yang memungkinkan orang dengan penglihatan yang buruk agar dapat mengoperasikan keyboard interaktif yang menerapkan sistem Braille di mana terdapat kontras tinggi dalam hal pewarnaan. Bright F adalah alat pengkonversi informasi kedalam suara. Maka tidak heran jika nantinya seorang tuna netra dapat menentukan warna baju yang akan dipakainya.
+B-Touch Braille Mobile Phone
+
+B-Touch Braille Mobile Phone adalah mobile phone yang dirancang dengan menggunakan tombol Braille di mana terdapat kombinasi unik touchscreen Braille plus sistem pengenalan suara sehingga memudahkan bagi penyandang tuna netra dalam berkomunikasi. [4]
+Kamera Touch Sight
+
+Kamera Touch Sight merupakan kamera tanpa sebuah LCD yang diciptakan bagi penyandang tuna netra di mana gambar 3 dimensi direpresentasikan kedalam layar braille. Ketika pengguna akan mengambil gambar maka device akan menentukan lokasi yang akan difoto dan merekamnya selama 3 detik. Cara menggunakannya cukup unik yaitu dengan menempelkan kamera ke dahi pengguna. Ini merupakan cara menstabilkan dan mengarahkan kamera. gambar yang diambil akan digabungkan dengan file suara menjadi foto yang dapat disentuh dan hasil ini bisa disimpan atau dishare ke sesama pengguna Touch Sight. Kamera ini dirancang oleh Chueh di Beit Ha’vie, Israel. Namun, gadget ini masih berupa konsep yang belum diproduksi menjadi hal yang nyata.[5]
+Samsung Touch Messenger
+
+Samsung Touch Messenger adalah gadget keluaran perusahaan gadget terkemuka dengan konsep Braille touchpad di mana terdapat enam karakter yang bisa saling dikombinasikan untuk mengetik pesan. Dengan disain yang menawan Samsung Touch Messenger berhasil menyabet penghargaan Gold Award pada Industrial Design Excellence Awards. [6]
+Special Teatime Braille Thermos
+
+Special Teatime Braille Thermos adalah termos yang dirancang oleh Halim Lee. Kebutaan membuat aktivitas seseorang terhambat, untuk berjalan saja susah apalagi untuk membuat teh. Dengan adanya termos braille, tuna netra dimudahkan untuk membuat teh sendiri. Pada termos terdapat huruf braille yang terukir di badan termos, juga dilengkapi dengan water level button untuk mengetahui batas jumlah air. Selain itu, alat ini juga dilengkapi dengan Infuser dan timer. Infuser adalah bagian di mana pengguna dapat menaruh bubuk teh sesuai dengan keinginannya, sedangkan timer adalah fasilitas untuk menghitung waktu yang diinginkan dalam menghangatkan teh sesuai dengan keinginan.[7]
+Jenis – jenis Huruf Braille
+
+Huruf Braille diciptakan dalam kultur budaya barat, terutama Perancis sehingga dalam penggunaannya merepresentasikan alphabet latin. Maka dalam perkembangan selanjutnya, huruf braille mengalami berbagai modifikasi dalam penerapannya kedalam berbagai bahasa, terutama bahasa-bahasa yang mempunyai aksara-aksara tertentu. Saat ini tidak heran jika terdapat berbagai versi huruf Braille, di antaranya :
+Braille Jepang
+
+Braille Jepang adalah kode Braille untuk menulis dalam bahasa Jepang dan tetap berdasarkan sistem Braille yang asli. Sistem ini disebut tenji yang secara bahasa berarti dot karakter. Braille jepang adalah vokal yang berbasis abiguda. Vokal ditulis disudut kiri atas (poin 1,2,4) dan bisa digunakan sendiri. Sedangkan konsonan ditulis dipojok kanan bawah (poin 3,5,6) dan tidak dapat berdiri sendiri. Huruf semivokal ditandai dengan 4 titik, yaitu titik vokal dan simbol vokal yang terdapat di bawah blok. Pada huruf kana, penulisannya dengan menambahkan diakritik yang disebut dakuten seperti dalam gi ぎ. Demikian pula dengan p yang berasal dari huruf h yang ditambahi lingkaran kecil, handakuten. Dua kana bergabung menjadi satu suku kata tunggal dengan tulisan kedua yang lebih kecil seperti dalam きゃkya, ini disebut Yoon. Untuk tanda baca sama dengan sistem Braille yang asli meskipun terdapat beberapa tambahan dalam penerapannya di dalam bahasa Jepang.[8]
+Braille Korea
+
+Sistem ini dikembangkan oleh Dr. Rosetta Sherwood Hall tahun 1894 menggunakan 4 titik. Namun karena tidak mudah digunakan maka dibuatlah sistem dengan 6 titik oleh Park Du-Seong tahun 1926, sedangkan bentuk yang berlaku di Korea saat ini adalah hasil revisi tahun1994. Braille Korea tidak berhubungan dengan sistem grafis lainnya di dunia karena khusus mencerminkan pola huruf Hanggul. Sistem ini merupakan kombinasi dari konnsonan awal, vokal, dan konsonan akhir. Konsonan memiliki varian yang berbeda baik di awal maupun di akhir suku kata dan tidak menempati lebih dari dua baris. Jika diawal konsonan menempati ruang disebelah kanan maka untuk konsonan terakhir menempati ruang dikiri. Sedangkan untuk huruf vokal semuanya memiliki rentang yang lebar sel-nya tinggi. Untuk karakter angka da tanda baca sama denga sistem Braille yang asli.[9]
+Braille ASCII
+
+Braille ASCII menggunakan 64 karakter ASCII untuk mewakili semua kemungkinan kombinasi titik dari enam dot-Braille. Penggunaan sistem ini meskipun dulunya dipakai di Amerika Utara sekarang sudah digunakan secara internasional. Semua huruf dalam ASCII sesuai dengan Braille Inggris. Namun, hanya ada satu Braille simbol untuk setiap huruf abjad. Simbol lainnya berbeda dalam sistem Braille yang asli, misalnya titik ⠌ 3-4 merupakan / (garis miring) di Braille ASCII dan ini sama dengan garis miring Braille, tetapi untuk titik ⠿ titik 1-2-3-4-5-6 mewakili = dalam Braille ASCII dan ini tidak sama dalam sistem Braille. Pada dasarnya, sistem Braille ASCII lebih dekat dengan Nemeth Braille yaitu kode matematik karena jika dilihat lebih jauh akan terlihat seperti campuran dari huruf, angka dan tanda baca. Braille ASCII dirancang untuk menjadi sarana penyimpanan dan pengiriman data dalam format digital karena menggunakan karakter standar maka dapat dengan mudah diolah dengan pengolah kata standar. Dan hampir semua perangkat lunak terjemahan Braille dapat mengimpor dan mengekspor format ini. • [10]
+Referensi
+
+    GAR 0606094320
+    Koswanto H., Thiang, Ricardo J. (2003) Mesin Printer Huruf Braille Menggunakan Mikrokontroler MCS-51. Jurnal Teknik Elektro Vol. 3 No. 1.
+
+    Jones, Zzah & Ravcho, Zraya (1947). Introduction to Communications Technologies: A Guide for Non-Engineers. Boca Raton, FL: CRC Press.
+    Mirabito, M.A.M., & Morgenstern, B.L (1931). New Communication Technology: Applications, Policy, and Impact, Fifth Edition, UK: Focal Press.
+    Mitra Netra: Pendidikan dan Pengembangan Tunanetra diakses pada tanggal 12 Oktober 2008
+    PERTUNI. (2008) Sejarah Tulisan Braille diakses pada tanggal 1 Oktober 2008
+    How Braille Began diakses pada tanggal 1 Oktober 2008
+    diakses tanggal 15 Maret 2011
+    diakses tanggal 15 Maret 2011
+    diakses tanggal 15 Maret 2011
+
+    ↑ "Ponsel Touchscreen Huruf Braille". Diakses tanggal 2011-03-15.
+    ↑ / "Software Pengubah Huruf Latin Menjadi Braille Ditemukan Peneliti Universitas Bina Nusantara". Diakses tanggal 2011-03-15.
+    ↑ "Teknologi Screen Reader bagi Tuna Netra". Diakses tanggal 2011-03-15.
+    ↑ "Gadget untuk Para Tuna Netra". Diakses tanggal 2011-03-15.
+    ↑ "Kamera Braille Untuk mereka yang buta". Diakses tanggal 2011-03-15.
+    ↑ "Samsung Braille Mobile Phone". Diakses tanggal 2011-03-15.
+    ↑ "Meet Special Teatime Braille Thermos [Tea Making Gadget]". Diakses tanggal 2011-03-15.
+    ↑ "Kanji Braille". Diakses tanggal 2011-03-15.
+    ↑ "Korea Braille". Diakses tanggal 2011-03-15.
+    ↑ "ASCII Braille". Diakses tanggal 2011-03-15.
+
+Sistem tulisan
+Abjad
+Arab (Jawi · Pegon) · Aram  · Ibrani · Ibrani Kuno · Nabath · Pahlavi · Fenisia · Proto-Kanaan · Psalter · Saba · Samaria · Arab Selatan · Sogdia · Suryani · Tifinagh · Ugarit
+Abugida
+Rumpun aksara
+Brahmi	
+Utara
+	
+Assam · Bengali · Brahmi · Chakma · Cham · Dewanagari · Divehi (Dhives Akuru) · Nagari Timur · Gujarati · Gupta · Gurmukhī · Kaithi · Lepcha · Limbu · Manipuri (Meitei Mayek) · Mithila · Modi · Nagari · Nagari Timur · Nepal · Phagspa · Ranjana · Siddhaṃ · Śāradā · Soyombo · Sylheti Nagari · Takri · Tibet · Tokharia
+Selatan
+	
+Ahom · Burma · Grantha · Kadamba · Kalinga · Kannada · Kawi Kuno · Khmer · Lanna · Lao · Malayalam · Malesung · Mon · Oriya · Pallawa · Saurashtra · Sinhala · Tai Dam · Tai Le · Tamil · Telugu · Thai · Varang Kshiti
+Keluarga Kawi
+	
+Bali · Batak · Baybayin · Buhid · Hanunó'o · Jawa (Buda) · Kaganga (Rejang · Lampung · Rencong) · Lontara · Sunda (Sunda Kuno) · Tagbanwa
+Lainnya	
+Stenografi silabis Boyd · Penduduk asli Kanada · Ge'ez · Aksara braille Jepang · Kharoṣṭhī · Meroe · Stenografi Pitman · Aksara Pollard · Sorang Sompeng · Tāna · Stenografi alami Thomas
+Alfabet
+Linear	
+Armenia · Avesta · Beitha Kukju · Koptik · Sirilik · Stenografi eklektik · Elbasan · Fraser · Stenografi Gabelsberger · Georgia · Glagolitik · Goth · Stenografi Gregg · Yunani · Yunani-Iberia · Euboea · Hangeul · Fonetis Internasional · Latin · Manchu · Mandaea · Mongolia · Neo-Tifinagh · N'Ko · Ogham · Ol Chiki · Hongaria Kuno · Italia Kuno · Old Permic · Orkhon · Osmanya · Rune · Shavia · Tai Lue baru · Bassa Vah · Visible Speech
+Non-linear	
+Braille (Ibrani · Korea) · Bendera maritim · Kode Morse · New York Point · Garis semaphore · Bendera semaphore · Moon type
+Ideo/Piktogram
+Aztek · Blissymbol · DanceWriting · Dongba · Míkmaq · New Epoch Notation Painting · SignWriting
+Logogram
+Tionghoa	
+Tradisional · Sederhana · Chữ Nôm · Hanja · Kanji
+Asal Tionghoa	
+Jurchen · Khitan · Zhuang
+Logo-silabis lainnya	
+Anatolia · Paku · Maya · Aksara Tangut · Yi
+Logo-konsonantal	
+Demotik · Hieratik · Hieroglif
+Angka	
+Hindu-Arab (Arab Barat · Arab Timur · Angka Hindu) · Abjad · Yunani (Attik) · Romawi
+Semisilabis
+Penuh	
+Keltiberia · Iberia Timur Laut · Iberia Tenggara
+Lebih	
+Barat Daya · Pahawh Hmong · Zhùyīn fúhào
+Silabis
+Afaka · Cherokee · Sipriot · Geba · Kana (Hiragana · Katakana · Manyōgana) · Kikakui · Kpelle · Linear B · Nüshu · Paku persia Kuno · Vai · Woleai · Yi · Yugtun
+</isi>
+</artikel>

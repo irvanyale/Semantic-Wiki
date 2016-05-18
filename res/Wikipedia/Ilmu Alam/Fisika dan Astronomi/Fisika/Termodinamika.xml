@@ -1,0 +1,141 @@
+<artikel>
+<judul>
+Termodinamika
+</judul>
+<isi>
+Sebuah sistem termodinamika
+Termodinamika
+Mesin panas klasik Carnot
+Cabang
+Klasik · Statistik · Kimia
+Kesetimbangan / Tak setimbang
+Hukum
+Awal · Pertama · Kedua · Ketiga
+Sistem
+Keadaan:
+Persamaan keadaan
+Gas ideal · Gas nyata
+Wujud zat · Kesetimbangan
+Volume kontrol · Instrumen termodinamikaProses:
+Isobarik · Isokorik · Isotermis
+Adiabatik · Isentropik · Isentalpik
+Quasistatik · Politropik
+Ekspansi bebas
+Reversibel · Ireversibel
+EndoreversibilitasSiklus:
+Mesin kalor · Pompa kalor
+Efisiensi termal
+Properti sistem
+
+    Diagram properti
+    Sifat ekstensif dan intensif
+
+Fungsi keadaan
+(Variabel konjugat dengan huruf miring)
+
+    Suhu / Entropi
+    Pendahuluan entropi
+    Tekanan / Volume
+    Potensi kimia / Nomor partikel
+    Kualitas uap
+    Properti tereduksi
+
+Fungsi proses
+
+    Kerja
+    Panas
+
+Persamaan
+
+    Teorema Carnot
+    Teorema Clausius
+    Hubungan dasar
+    Hukum gas ideal
+    Hubungan Maxwell
+    Onsager reciprocal relations
+    Persamaan termodinamika Bridgman
+    Tabel
+
+Potensial
+
+    Energi bebas
+    Entropi bebas
+    Energi dalam
+    U(S,V)
+    Entalpi
+    H(S,p)=U+pV
+    Energi bebas Helmholtz
+    A(T,V)=U-TS
+    Energi bebas Gibbs
+    G(T,p)=H-TS
+
+Ilmuwan
+Bernoulli · Carnot · Clapeyron · Clausius · von Helmholtz · Carathéodory · Pierre Duhem · Gibbs · Joule · Maxwell · von Mayer · Onsager · Rankine · Smeaton · Stahl · Thompson · Kelvin · Waterson
+
+Termodinamika (bahasa Yunani: thermos = 'panas' and dynamic = 'perubahan') adalah fisika energi , panas, kerja, entropi dan kespontanan proses. Termodinamika berhubungan dekat dengan mekanika statistik di mana hubungan termodinamika berasal.
+
+Pada sistem di mana terjadi proses perubahan wujud atau pertukaran energi, termodinamika klasik tidak berhubungan dengan kinetika reaksi (kecepatan suatu proses reaksi berlangsung). Karena alasan ini, penggunaan istilah "termodinamika" biasanya merujuk pada termodinamika setimbang. Dengan hubungan ini, konsep utama dalam termodinamika adalah proses kuasistatik, yang diidealkan, proses "super pelan". Proses termodinamika bergantung-waktu dipelajari dalam termodinamika tak-setimbang.
+
+Karena termodinamika tidak berhubungan dengan konsep waktu, telah diusulkan bahwa termodinamika setimbang seharusnya dinamakan termostatik.
+
+Hukum termodinamika kebenarannya sangat umum, dan hukum-hukum ini tidak bergantung kepada rincian dari interaksi atau sistem yang diteliti. Ini berarti mereka dapat diterapkan ke sistem di mana seseorang tidak tahu apa pun kecual perimbangan transfer energi dan wujud di antara mereka dan lingkungan. Contohnya termasuk perkiraan Einstein tentang emisi spontan dalam abad ke-20 dan riset sekarang ini tentang termodinamika benda hitam.
+
+Menurut Arief MS Termodinamika adalah suatu konsep mekanika perpindahan Energi. Seperti panas, di mana konsep perpindahan panas adalah panas secara spontan akan berpindah dari temperatur tinggi ke temperatur rendah. Pada termodinamika inilah konsep mekanika itu akan di bahas.
+Konsep dasar dalam termodinamika
+
+Pengabstrakkan dasar atas termodinamika adalah pembagian dunia menjadi sistem dibatasi oleh kenyataan atau ideal dari batasan. Sistem yang tidak termasuk dalam pertimbangan digolongkan sebagai lingkungan. Dan pembagian sistem menjadi subsistem masih mungkin terjadi, atau membentuk beberapa sistem menjadi sistem yang lebih besar. Biasanya sistem dapat diberikan keadaan yang dirinci dengan jelas yang dapat diuraikan menjadi beberapa parameter. Dari prinsip-prinsip dasar termodinamika secara umum bisa diturunkan hubungan antara kuantitas misalnya, koefisien ekspansi, kompresibilitas, panas jenis, transformasi panas dan koefisien elektrik, terutama sifat-sifat yang dipengaruhi temperatur.
+Sistem termodinamika
+
+Sistem termodinamika adalah bagian dari jagat raya yang diperhitungkan. Sebuah batasan yang nyata atau imajinasi memisahkan sistem dengan jagat raya, yang disebut lingkungan. Klasifikasi sistem termodinamika berdasarkan pada sifat batas sistem-lingkungan dan perpindahan materi, kalor dan entropi antara sistem dan lingkungan.
+
+Ada tiga jenis sistem berdasarkan jenis pertukaran yang terjadi antara sistem dan lingkungan:
+
+    sistem terisolasi: tak terjadi pertukaran panas, benda atau kerja dengan lingkungan. Contoh dari sistem terisolasi adalah wadah terisolasi, seperti tabung gas terisolasi.
+    sistem tertutup: terjadi pertukaran energi (panas dan kerja) tetapi tidak terjadi pertukaran benda dengan lingkungan. Rumah hijau adalah contoh dari sistem tertutup di mana terjadi pertukaran panas tetapi tidak terjadi pertukaran kerja dengan lingkungan. Apakah suatu sistem terjadi pertukaran panas, kerja atau keduanya biasanya dipertimbangkanh sebagai sifat pembatasnya:
+        pembatas adiabatik: tidak memperbolehkan pertukaran panas.
+        pembatas rigid: tidak memperbolehkan pertukaran kerja.
+    sistem terbuka: terjadi pertukaran energi (panas dan kerja) dan benda dengan lingkungannya. Sebuah pembatas memperbolehkan pertukaran benda disebut permeabel. Samudra merupakan contoh dari sistem terbuka.
+
+Dalam kenyataan, sebuah sistem tidak dapat terisolasi sepenuhnya dari lingkungan, karena pasti ada terjadi sedikit pencampuran, meskipun hanya penerimaan sedikit penarikan gravitasi. Dalam analisis sistem terisolasi, energi yang masuk ke sistem sama dengan energi yang keluar dari sistem.
+Keadaan termodinamika
+
+Ketika sistem dalam keadaan seimbang dalam kondisi yang ditentukan, ini disebut dalam keadaan pasti (atau keadaan sistem).
+
+Untuk keadaan termodinamika tertentu, banyak sifat dari sistem dispesifikasikan. Properti yang tidak tergantung dengan jalur di mana sistem itu membentuk keadaan tersebut, disebut fungsi keadaan dari sistem. Bagian selanjutnya dalam seksi ini hanya mempertimbangkan properti, yang merupakan fungsi keadaan.
+
+Jumlah properti minimal yang harus dispesifikasikan untuk menjelaskan keadaan dari sistem tertentu ditentukan oleh Hukum fase Gibbs. Biasanya seseorang berhadapan dengan properti sistem yang lebih besar, dari jumlah minimal tersebut.
+
+Pengembangan hubungan antara properti dari keadaan yang berlainan dimungkinkan. Persamaan keadaan adalah contoh dari hubungan tersebut.
+Hukum-hukum Dasar Termodinamika
+
+Terdapat empat Hukum Dasar yang berlaku di dalam sistem termodinamika, yaitu:
+
+    Hukum Awal (Zeroth Law) Termodinamika
+
+        Hukum awal menyatakan bahwa dua sistem dalam keadaan setimbang dengan sistem ketiga, maka ketiganya dalam saling setimbang satu dengan lainnya. Hukum ini dimasukkan setelah hukum pertama.
+
+    Hukum Pertama Termodinamika
+
+        Hukum yang sama juga terkait dengan kasus kekekalan energi. Hukum ini menyatakan perubahan energi dalam dari suatu sistem termodinamika tertutup sama dengan total dari jumlah energi kalor yang disuplai ke dalam sistem dan kerja yang dilakukan terhadap sistem. Hukum ini dapat diuraikan menjadi beberapa proses, yaitu proses dengan Isokhorik, Isotermik, Isobarik, dan juga adiabatik.
+
+    Hukum kedua Termodinamika
+
+        Hukum kedua termodinamika terkait dengan entropi. Tidak ada bunyi untuk hukum kedua termodinamika yang ada hanyalah pernyataan kenyataan eksperimental yang dikeluarkan oleh kelvin-plank dan clausius. Pernyataan clausius: tidak mungkin suatu sistem apapun bekerja sedemikian rupa sehingga hasil satu-satunya adalah perpindahan energi sebagai panas dari sistem dengan temperatur tertentu ke sistem dengan temperatur yang lebih tinggi. Pernyataan kelvin-planck: tidak mungkin suatu sistem beroperasi dalam siklus termodinamika dan memberikan sejumlah netto kerja kesekeliling sambil menerima energi panas dari satu reservoir termal.(sumber Fundamentals of engineering thermodynamics (Moran J., Shapiro N.M. - 6th ed. - 2007 - Wiley) Bab5). "total entropi dari suatu sistem termodinamika terisolasi cenderung untuk meningkat seiring dengan meningkatnya waktu, mendekati nilai maksimumnya hal ini disebut dengan prinsip kenaikan entropi" merupakan korolari dari kedua pernyataan diatas (analisis Hukum kedua termodinamika untuk proses dengan menggunakan sifat entropi)(sumber Fundamentals of engineering thermodynamics (Moran J., Shapiro N.M. - 6th ed. - 2007 - Wiley) Bab6).
+
+    Hukum ketiga Termodinamika
+
+        Hukum ketiga termodinamika terkait dengan temperatur nol absolut. Hukum ini menyatakan bahwa pada saat suatu sistem mencapai temperatur nol absolut, semua proses akan berhenti dan entropi sistem akan mendekati nilai minimum. Hukum ini juga menyatakan bahwa entropi benda berstruktur kristal sempurna pada temperatur nol absolut bernilai nol.
+
+Lihat pula
+
+    Kekekalan energi
+    Asas Black
+
+Bacaan lebih lanjut
+
+    Kanginan, Marthen (2006). Fisika 2 untuk SMA Kelas XI. Jakarta: Erlangga. ISBN 978-979-781-731-2. (Indonesia)
+
+	Wikibuku Rumus-Rumus Fisika Lengkap memiliki halaman bertajuk
+Termodinamika
+</isi>
+</artikel>

@@ -1,0 +1,28 @@
+<page>
+    <title>Analisis leksikal</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>1556647</id>
+      <parentid>222116</parentid>
+      <timestamp>2008-07-11T12:01:38Z</timestamp>
+      <contributor>
+        <username>Gozali</username>
+        <id>65968</id>
+      </contributor>
+      <minor />
+      <comment>memindahkan [[Analisis Leksikal]] ke [[Analisis leksikal]]: kata kedua huruf kecil ya? mau kulink dari artikel Algoritma pencarian string soalna</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Analisis leksikal''' adalah sebuah proses yang mendahului [[parsing]] sebuah rangkaian karakter. Ia menerima masukan serangkaian karakter (seperti dalam dokumen plain-text atau source code) dan menghasilkan deretan simbol yang masing-masing dinamakan '''token'''; proses parsing akan lebih mudah dilakukan bila inputnya sudah berupa token.
+
+Analisis leksikal terdiri dari dua tahap. Tahap pertama adalah '''pemindaian''' ('''''scanning'''''); scanner biasanya dibuat berdasarkan prinsip Finite State Machine (&quot;mesin dengan jumlah keadaan terbatas&quot;). Pada tahap ini, scanner akan membaca input karakter-ke-karakter, mengubah keadaannya sendiri berdasarkan karakter yang tengah dibaca. Setiap kondisi final (input dianggap valid) akan dicatat, bersama dengan lokasi input. Pada akhirnya scanner akan menemui keadaan penolakan, yang tidak akan berubah dengan input karakter apapun. Deteksi rekursi semacam ini akan mengakhiri proses pemindaian dan memindahkan keadaan scanner ke keadaan final terakhir, dan karenanya menyimpan informasi jenis dan besar [[lexeme]] valid yang terpanjang di dalam input.
+
+Namun lexeme tersebut belum punya nilai semantik apapun; pemberian nilai semantik pada setiap unit leksikal adalah tugas dari '''evaluator''' yang memeriksa semua karakter setiap lexeme dan memberinya nilai tertentu. Saat sebuah lexeme telah memiliki informasi mengenai tipe dan nilainya, ia dapat secara valid disebut sebagai token.
+
+Analisis leksikal membuat pekerjaan membuat sebuah parser jadi lebih mudah; ketimbang membangun nama setiap fungsi dan variabel dari karakter-karakter yang menyusunnya, dengan analisis leksikal parser cukup hanya berurusan dengan sekumpulan token dan nilai sintaksis masing-masing. Terlepas dari efisiensi pemrograman yang dapat dicapai dengan penggunaannya, proses kerja analisis leksikal yang membaca lebih dari sekali setiap karakter dari input yang diberikan menjadikan '''penganalisa leksikal''' sebagai sub-sistem yang paling intensif melakukan komputasi, terutama bila digunakan dalam sebuah [[kompilator]].
+
+[[Kategori:Ilmu komputer]]</text>
+      <sha1>me0kdgidebecnxwnl6o2wfqwq8att92</sha1>
+    </revision>
+  </page>

@@ -1,0 +1,140 @@
+<page>
+    <title>Statistika</title>
+    <ns>0</ns>
+    <id>1072</id>
+    <revision>
+      <id>10388852</id>
+      <parentid>10241646</parentid>
+      <timestamp>2015-11-18T13:52:49Z</timestamp>
+      <contributor>
+        <ip>112.215.44.179</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{terjemah|Inggris}}
+'''Statistika''' adalah ilmu yang mempelajari bagaimana merencanakan, mengumpulkan, menganalisis, menginterpretasi, dan mempreseMasukkan paragraf
+
+Statistika banyak diterapkan dalam berbagai disiplin ilmu, baik ilmu-ilmu alam (misalnya [[astronomi]] dan [[biologi]] maupun ilmu-ilmu sosial (termasuk [[sosiologi]] dan [[psikologi]]), maupun di bidang [[bisnis]], [[ekonomi]], dan [[industri]]. Statistika juga digunakan dalam [[pemerintahan]] untuk berbagai macam tujuan; [[sensus penduduk]] merupakan salah satu prosedur yang paling dikenal. Aplikasi statistika lainnya yang sekarang popular adalah prosedur [[jajak pendapat]] atau ''polling'' (misalnya dilakukan sebelum pemilihan umum), serta [[hitung cepat]] (perhitungan cepat hasil pemilu) atau ''quick count''. Di bidang komputasi, statistika dapat pula diterapkan dalam [[pengenalan pola]] maupun [[kecerdasan buatan]].
+
+== Sejarah ==
+Penggunaan istilah ''statistika'' berakar dari istilah istilah dalam bahasa latin modern ''statisticum collegium'' (&quot;dewan negara&quot;) dan bahasa Italia ''statista'' (&quot;negarawan&quot; atau &quot;politikus&quot;).
+
+[[Gottfried Achenwall]] (1749) menggunakan ''Statistik'' dalam [[bahasa Jerman]] untuk pertama kalinya sebagai nama bagi kegiatan analisis data kenegaraan, dengan mengartikannya sebagai &quot;ilmu tentang negara (''state'')&quot;. Pada awal [[abad ke-19]] telah terjadi pergeseran arti menjadi &quot;ilmu mengenai pengumpulan dan klasifikasi data&quot;. Sir John Sinclair memperkenalkan nama (''Statistics'') dan pengertian ini ke dalam [[bahasa Inggris]]. Jadi, statistika secara prinsip mula-mula hanya mengurus data yang dipakai lembaga-lembaga administratif dan pemerintahan. Pengumpulan data terus berlanjut, khususnya melalui [[sensus]] yang dilakukan secara teratur untuk memberi informasi kependudukan yang berubah setiap saat.
+
+Pada abad ke-19 dan awal abad ke-20 statistika mulai banyak menggunakan bidang-bidang dalam [[matematika]], terutama [[peluang]]. Cabang statistika yang pada saat ini sangat luas digunakan untuk mendukung [[metode ilmiah]], [[statistika inferensi]], dikembangkan pada paruh kedua abad ke-19 dan awal abad ke-20 oleh [[Ronald Fisher]] (peletak dasar statistika inferensi), [[Karl Pearson]] (metode [[analisis regresi|regresi linear]]), dan [[William Sealey Gosset]] ([[meneliti problem sampel berukuran kecil]]). Penggunaan statistika pada masa sekarang dapat dikatakan telah menyentuh semua bidang ilmu pengetahuan, mulai dari [[astronomi]] hingga [[linguistika]]. Bidang-bidang [[ekonomi]], [[biologi]] dan cabang-cabang terapannya, serta [[psikologi]] banyak dipengaruhi oleh statistika dalam [[metodologi]]nya. Akibatnya lahirlah ilmu-ilmu gabungan seperti [[ekonometrika]], [[biometrika]] (atau biostatistika), dan [[psikometrika]].
+
+Meskipun ada pihak yang menganggap statistika sebagai cabang dari matematika, tetapi sebagian pihak lainnya menganggap statistika sebagai bidang yang banyak terkait dengan matematika melihat dari sejarah dan aplikasinya. Di Indonesia, kajian statistika sebagian besar masuk dalam fakultas matematika dan [[ilmu pengetahuan alam]], baik di dalam departemen tersendiri maupun tergabung dengan matematika.
+
+=== Beberapa kontributor statistika ===
+* [[Carl Gauss]]
+* [[Blaise Pascal]]
+* [[Francis Galton|Sir Francis Galton]]
+* [[William Sealey Gosset]] (dikenal dengan sebutan &quot;Student&quot;)
+* [[Karl Pearson]]
+* [[Ronald Fisher|Sir Ronald Fisher]]
+* [[Gertrude Mary Cox|Gertrude Cox]]
+* [[Charles Spearman]]
+* [[Pafnuty Chebyshev]]
+* [[Aleksandr Lyapunov]]
+* [[Isaac Newton]]
+* [[Abraham De Moivre]]
+* [[Adolph Quetelet]]
+* [[Florence Nightingale]]
+* [[John Tukey]]
+* [[George Dantzig]]
+* [[Thomas Bayes]]
+
+== Konsep dasar ==
+Terdapat bermacam-macam teknik statistik yang digunakan dalam penelitian khususnya dlam pengujian hipotesis.&lt;ref name=&quot;sugiono&quot;&gt;Prof. Dr. Sugiono. ''Statistik untuk Penelitian'' Jakarta: Alfabeta, 2010&lt;/ref&gt; Dalam mengaplikasikan statistika terhadap permasalahan sains, industri, atau sosial, pertama-tama dimulai dari mempelajari populasi. Makna ''populasi'' dalam statistika dapat berarti populasi benda hidup, benda mati, ataupun benda abstrak. Populasi juga dapat berupa pengukuran sebuah proses dalam waktu yang berbeda-beda, yakni dikenal dengan istilah ''deret waktu''.
+
+Melakukan pendataan (pengumpulan data) seluruh populasi dinamakan [[sensus]]. Sebuah sensus tentu memerlukan waktu dan biaya yang tinggi. Untuk itu, dalam statistika seringkali dilakukan pengambilan sampel (sampling), yakni sebagian kecil dari populasi, yang dapat mewakili seluruh populasi. Analisis data dari sampel nantinya digunakan untuk menggeneralisasi seluruh populasi.
+
+Jika sampel yang diambil cukup representatif, inferensial (pengambilan keputusan) dan simpulan yang dibuat dari sampel dapat digunakan untuk menggambarkan populasi secara keseluruhan. Metode statistika tentang bagaimana cara mengambil sampel yang tepat dinamakan [[teknik sampling]].
+
+Analisis statistik banyak menggunakan [[probabilitas]] sebagai konsep dasarnya hal terlihat banyak digunakannya uji statistika yang mengambil dasar pada sebaran peluang. Sedangkan [[matematika statistika]] merupakan cabang dari [[matematika terapan]] yang menggunakan [[teori probabilitas]] dan [[analisis matematika]] untuk mendapatkan dasar-dasar teori statistika.
+
+Ada dua macam statistika, yaitu [[statistika deskriptif]] dan [[statistika inferensial]]. Statistika deskriptif berkenaan dengan deskripsi data, misalnya dari menghitung rata-rata dan varians dari data mentah; mendeksripsikan menggunakan tabel-tabel atau grafik sehingga data mentah lebih mudah “dibaca” dan lebih bermakna. Sedangkan statistika inferensial lebih dari itu, misalnya melakukan [[pengujian hipotesis]], melakukan [[prediksi]] observasi masa depan, atau membuat model [[regresi]].
+
+* [[Statistika deskriptif]] berkenaan dengan bagaimana data dapat digambarkan dideskripsikan) atau disimpulkan, baik secara numerik (misalnya menghitung rata-rata dan deviasi standar) atau secara grafis (dalam bentuk tabel atau grafik), untuk mendapatkan gambaran sekilas mengenai data tersebut, sehingga lebih mudah ''dibaca'' dan bermakna.
+* [[Statistika inferensial]] berkenaan dengan permodelan data dan melakukan pengambilan keputusan berdasarkan analisis data, misalnya melakukan [[pengujian hipotesis]], melakukan estimasi pengamatan masa mendatang ([[estimasi]] atau [[prediksi]]), membuat permodelan hubungan ([[korelasi]], [[regresi]], [[ANOVA]], [[deret waktu]]), dan sebagainya.
+
+== Metode Statistika ==
+=== Dua jenis penelitian: eksperimen dan survai ===
+Terdapat dua jenis utama penelitian: [[eksperimen]] dan [[survei]]. Keduanya sama-sama mendalami pengaruh perubahan pada peubah penjelas dan perilaku peubah respon akibat perubahan itu. Beda keduanya terletak pada bagaimana kajiannya dilakukan.
+
+Suatu eksperimen melibatkan pengukuran terhadap sistem yang dikaji, memberi perlakuan terhadap sistem, dan kemudian melakukan pengukuran (lagi) dengan cara yang sama terhadap sistem yang telah diperlakukan untuk mengetahui apakah perlakuan mengubah nilai pengukuran. Bisa juga perlakuan diberikan secara simultan dan pengaruhnya diukur dalam waktu yang bersamaan pula. Metode statistika yang berkaitan dengan pelaksanaan suatu eksperimen dipelajari dalam [[rancangan percobaan]] (desain eksperimen).
+
+Dalam survey, di sisi lain, tidak dilakukan manipulasi terhadap sistem yang dikaji. Data dikumpulkan dan hubungan (korelasi) antara berbagai peubah diselidiki untuk memberi gambaran terhadap objek penelitian. Teknik-teknik survai dipelajari dalam [[metode survei]].
+
+Penelitian tipe eksperimen banyak dilakukan pada ilmu-ilmu rekayasa, misalnya teknik, [[ilmu pangan]], [[agronomi]], [[farmasi]], [[pemasaran]] (marketing), dan psikologi eksperimen.
+
+Penelitian tipe observasi paling sering dilakukan di bidang ilmu-ilmu sosial atau berkaitan dengan perilaku sehari-hari, misalnya ekonomi, psikologi dan pedagogi, kedokteran masyarakat, dan industri.
+
+=== Tipe pengukuran ===
+Ada empat [[tipe skala pengukuran]] yang digunakan di dalam statistika, yaitu nominal, ordinal, interval, dan rasio. Keempat skala pengukuran tersebut memiliki tingkat penggunaan yang berbeda dalam pengolahan statistiknya.
+* Skala ''nominal'' hanya bisa membedakan sesuatu yang bersifat kualitatif atau kategoris, misalnya jenis kelamin, agama, dan warna kulit.
+* Skala ''ordinal'' selain membedakan sesuatu juga menunjukkan tingkatan, misalnya pendidikan dan tingkat kepuasan pengguna.
+* Skala interval berupa angka kuantitatif namun tidak memiliki nilai nol mutlak sehingga titik nol dapat digeser sesuka orang yang mengukur, misalnya tahun dan suhu dalam Celcius.
+* Skala rasio berupa angka kuantitatif yang memiliki nilai nol mutlak dan tidak dapat digeser sesukanya, misalnya adalah suhu dalam Kelvin, panjang, dan massa.
+
+=== Teknik-teknik statistika ===
+Beberapa pengujian dan prosedur yang banyak digunakan dalam penelitian antara lain:
+* [[Analisis regresi]] dan [[analisis korelasi|korelasi]]
+* [[Analisis varians]] (ANOVA)
+* [[khi-kuadrat]]
+* [[Uji t-Student]]
+
+=== Statistika Terapan ===
+Bebebarapa ilmu pengetahuan menggunakan [[statistika terapan]] sehingga mereka memiliki terminologi yang khusus. Disiplin ilmu tersebut antara lain:
+* [[Aktuaria]] (penerapan statistika dalam bidang asuransi)
+* [[Biostatistika]] atau [[biometrika]] (penerapan statistika dalam ilmu biologi)
+* [[Statistika bisnis]]
+* [[Ekonometrika]] 
+* [[Psikometrika]] 
+* [[Statistika sosial]]
+* [[Statistika teknik]] atau [[teknometrika]]
+* [[Fisika statistik]]
+* [[Demografi]]
+* [[Eksplorasi data]] ([[pengenalan pola]])
+* [[Literasi statistik]]
+* [[Analisis proses]] dan [[kemometrika]] (untuk analisis data [[kimia analis]] dan [[teknik kimia]])
+
+Statistika memberikan alat analisis data bagi berbagai bidang ilmu. Kegunaannya bermacam-macam: mempelajari keragaman akibat pengukuran, mengendalikan proses, merumuskan informasi dari data, dan membantu pengambilan keputusan berdasarkan data. Statistika, karena sifatnya yang objektif, sering kali merupakan satu-satunya alat yang bisa diandalkan untuk keperluan-keperluan di atas.
+
+== Piranti lunak ==
+{{utama|Daftar perangkat lunak statistika}}
+Perhitungan statistika modern banyak dilakukan oleh komputer, dan bahkan
+beberapa perhitungan hanya dapat dilakukan oleh komputer berkecepatan
+tinggi, misalnya [[jaringan saraf tiruan]]. Revolusi komputer telah membawa implikasi perkembangan statistika pada masa mendatang, dengan penekanan baru pada statistika eksperimental dan empirik.
+
+== Lihat pula ==
+* [[Analisis varians]] (ANOVA)
+* [[Analisis regresi]]
+* [[Daftar agen statistik nasional dan internasional]]
+* [[Daftar Publikasi Statistika]]
+* [[Statistik Pembangunan Daerah]]
+* [[Daftar topik-topik statistika]]
+* [[Daftar ahli statistika]]
+* [[Penyalahgunaan statistika]]
+* [[Statistika multivariat]]
+
+== Referensi ==
+{{reflist}}
+
+== Bacaan lanjutan ==
+Lindley, D. Making Decisions. John Wiley. Second Edition [[1985]]. ISBN 0-471-90808-8
+
+== Pranala luar ==
+* {{id}} [http://www.hkshum.net/stats/ Penjelasan distribusi statistik untuk pelajar sekolah menengah]
+* {{id}} [http://www.stis.ac.id/ Sekolah Tinggi Ilmu Statistik (STIS)] 
+* {{id}} [http://www.bps.go.id/ Badan Pusat Statistik (BPS) Indonesia]
+* {{id}} [http://www.bps.go.id/statcomm/isi/preface.html Ikatan Statistika Indonesia]
+* {{en}} [http://www.cbs.nl/isi/ International Statistical Institute]
+* {{en}} [http://www.mathcs.carleton.edu/probweb/probweb.html Situs web probabilitas]
+
+{{Bidang matematika}}
+
+[[Kategori:Statistika| ]]</text>
+      <sha1>jlt870jye8tl5q3her8l16yv45tnzzr</sha1>
+    </revision>
+  </page>

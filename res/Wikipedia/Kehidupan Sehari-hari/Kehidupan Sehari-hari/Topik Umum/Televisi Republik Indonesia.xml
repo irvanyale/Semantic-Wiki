@@ -1,0 +1,443 @@
+ <page>
+    <title>Televisi Republik Indonesia</title>
+    <ns>0</ns>
+    <id>824</id>
+    <revision>
+      <id>10406844</id>
+      <parentid>10406842</parentid>
+      <timestamp>2015-11-29T08:22:53Z</timestamp>
+      <contributor>
+        <username>Pencerah Anda</username>
+        <id>748882</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox TV channel
+| Name = TVRI
+| Other name = Lembaga Penyiaran Publik Televisi Republik Indonesia
+| logofile = TVRILogo2006.svg
+| logosize = 200px
+| Launch = [[24 Agustus]] [[1962]]
+| Slogan = Menjalin Persatuan dan Kesatuan ([[1962]]-[[2001]])&lt;br /&gt;Makin Dekat di Hati ([[2001]]-[[2005]]) &lt;br/&gt;Saluran Pemersatu Bangsa ([[2012]]-sekarang)&lt;br /&gt;Betul Sekali ([[2015]]-sekarang)
+| Sister channel = [[MNCTV|TPI]] ([[1991]]-[[1997]])&lt;br /&gt;[[BeritaSatu TV|QTV]] ([[2000]]-[[2011]])&lt;br /&gt;[[Swara]] ([[2000]]-sekarang)&lt;br /&gt;[[TV Edukasi]] ([[2004]]-[[2014]])
+| network = 
+| country = {{flagcountry|Indonesia}}
+| Headquarters = {{flagicon|Indonesia}} [[Jakarta]], [[Indonesia]]
+| Owner = [[Pemerintah Indonesia]]
+| web = {{URL|http://www.tvri.co.id/}}
+| availability note = nasional|
+ terr serv 1      = [[Jakarta]] |
+ terr chan 1      = 31 UHF (TVRI Jakarta)&lt;br /&gt;39 UHF (TVRI Nasional) |
+ terr serv 2      = [[Kota Bandung|Bandung]] |
+ terr chan 2      = 7 VHF (TVRI Bandung)&lt;br /&gt;27 UHF (TVRI Nasional) |
+ terr serv 3      = [[Kota Bogor|Bogor]] |
+ terr chan 3      = 7 VHF (TVRI Bandung)&lt;br /&gt;39 UHF (TVRI Nasional) |
+ terr serv 4      = [[Kota Tanjung Pinang|Tanjung Pinang]] |
+ terr chan 4      = 6 (1) UHF (TVRI Nasional)&lt;br /&gt;6 (2) UHF (TVRI Batam) |
+ terr serv 5      = [[Kota Semarang|Semarang]] |
+ terr chan 5      = 5 VHF (TVRI Semarang)&lt;br /&gt; 23 UHF (TVRI Nasional) |
+ terr serv 6      = [[Pulau Bintan|Bintan]] |
+ terr chan 6      = 6 (1) UHF (TVRI Nasional)&lt;br /&gt;6 (2) UHF (TVRI Batam) |
+ terr serv 7      = [[Kota Surabaya|Surabaya]] |
+ terr chan 7      = 10 VHF (TVRI Surabaya)&lt;br /&gt;26 UHF (TVRI Nasional) |
+ terr serv 8      = [[Makassar]] |
+ terr chan 8      = 5 VHF (TVRI Makassar)&lt;br /&gt;50 UHF (TVRI Nasional)|
+ terr serv 9      = [[Kota Banda Aceh|Banda Aceh]] |
+ terr chan 9      = 6 VHF (TVRI Banda Aceh)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 10     = [[Kota Medan|Medan]] |
+ terr chan 10     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 11     = [[Kota Batam|Batam]] ([[Pulau Batam]]) |
+ terr chan 11     = 6 (1) UHF (TVRI Nasional)&lt;br /&gt;6 (2) UHF (TVRI Batam) |
+ terr serv 12     = [[Kota Yogyakarta|Yogyakarta]] |
+ terr chan 12     = 9 VHF (TVRI Yogyakarta)&lt;br /&gt;22 UHF (TVRI Nasional) |
+ terr serv 13     = [[Kota Denpasar|Denpasar]] ([[Bali]]) |
+ terr chan 13     = 9 VHF (TVRI Bali)&lt;br /&gt;21 UHF (TVRI Nasional) |
+ terr serv 14     = [[Kota Bandar Lampung|Bandar Lampung]] |
+ terr chan 14     = 40 UHF (TVRI Bandar Lampung)&lt;br /&gt;50 UHF (TVRI Nasional) |
+ terr serv 15     = [[Kota Palembang|Palembang]] |
+ terr chan 15     = 10 VHF (TVRI Palembang)&lt;br /&gt;40 UHF (TVRI Nasional) |
+ terr serv 16     = [[Kota Padang|Padang]] |
+ terr chan 16     = 7 VHF (TVRI Padang)&lt;br /&gt;25 UHF (TVRI Nasional) |
+ terr serv 17     = [[Kota Pekanbaru|Pekanbaru]] |
+ terr chan 17     = 8 VHF (TVRI Riau)&lt;br /&gt;50 UHF (TVRI Nasional) |
+ terr serv 18     = [[Kota Pontianak|Pontianak]] |
+ terr chan 18     = 8 VHF (TVRI Pontianak)&lt;br /&gt;50 UHF (TVRI Nasional) |
+ terr serv 19     = [[Kota Banjarmasin|Banjarmasin]] |
+ terr chan 19     = 4 VHF (TVRI Banjarmasin) sampai [[2014]]&lt;br /&gt;40 UHF (TVRI Nasional &amp; TVRI Kalimantan Selatan) |
+ terr serv 20     = [[Kota Malang|Malang]] |
+ terr chan 20     = 10 VHF (TVRI Surabaya)&lt;br /&gt;26 UHF (TVRI Nasional) |
+ terr serv 21     = [[Kota Manado|Manado]] |
+ terr chan 21     = 10 VHF (TVRI Manado)&lt;br /&gt;45 UHF (TVRI Nasional) |
+ terr serv 22     = [[Kota Kediri|Kediri]] |
+ terr chan 22     = 10 VHF (TVRI Malang)&lt;br /&gt;26 UHF (TVRI Nasional) |
+ terr serv 23     = [[Kota Mataram|Mattaram, Lombok]] |
+ terr chan 23     = 7 VHF (TVRI Lombok)&lt;br /&gt;12 UHF (TVRI Nasional) |
+ terr serv 24     = [[Kota Makassar|Makassar]] |
+ terr chan 24     = 5 VHF (TVRI Makassar)&lt;br /&gt;20 UHF (TVRI Nasional) |
+ terr serv 25     = [[Kota Pematangsiantar|Pematang Siantar]] |
+ terr chan 25     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 26     = [[Rantau Prapat, Labuhanbatu|Rantau Parapat]] |
+ terr chan 26     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 27     = [[Kota Binjai|Binjai]] |
+ terr chan 27     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 28     = [[Kota Sibolga|Sibolga]] |
+ terr chan 28     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 29     = [[Kota Tanjungbalai|Tanjung Balai]] |
+ terr chan 29     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 30     = [[Kota Tebing Tinggi|Tebing Tinggi]] |
+ terr chan 30     = 6 VHF (TVRI Medan)&lt;br /&gt;47 UHF (TVRI Nasional) |
+ terr serv 31     = [[Boyolangu, Tulungagung|Boyolangu]] |
+ terr chan 31     = 10 VHF (TVRI Surabaya)&lt;br /&gt;26 UHF (TVRI Nasional) |
+ terr serv 32     = [[Kota Jambi|Jambi]] |
+ terr chan 32     = 27 UHF (TVRI Nasional) |
+ terr serv 33     = [[Kota Surakarta|Solo]] |
+ terr chan 33     = 10 VHF (TVRI Surabaya)&lt;br /&gt;26 UHF (TVRI Nasional) |
+ terr serv 34     = [[Kota Atambua|Atambua]] |
+ terr chan 34     = 10 VHF (TVRI Nasional)&lt;br /&gt;20 VHF (TVRI Nasional) |
+ sat serv 1       = [[Indovision]] |
+ sat chan 1       = 106 |
+ sat serv 2       = [[TransVision]] |
+ sat chan 2       = 124 |
+ sat serv 3       = [[OrangeTV]] |
+ sat chan 3       = 901 |
+ cable serv 1     = [[First Media]] |
+ cable chan 1     = 5 |
+| online serv 1   = [[UseeTV]]
+| online chan 1   = {{URL|http://www.useetv.com/livetv/tvri|TVRI}}
+}}
+'''Televisi Republik Indonesia (TVRI)''' adalah [[stasiun televisi]] pertama di Indonesia yang mengudara pada tanggal 24 Agustus 1962. Siaran perdananya menayangkan Upacara Peringatan Hari Kemerdekaan [[Republik Indonesia]] ke-17 dari [[Istana Negara]] [[Jakarta]]. Siarannya ini masih berupa hitam putih. TVRI kemudian meliput [[Asian Games]] yang diselenggarakan di Jakarta.
+
+Dahulu TVRI pernah menayangkan iklan dalam satu tayangan khusus yang dengan judul acara ''Mana Suka Siaran Niaga'' (sehari dua kali). Sejak [[April]] tahun [[1981]] hingga akhir 90-an TVRI tidak diperbolehkan menayangkan iklan, dan akhirnya TVRI kembali menayangkan iklan. Status TVRI saat ini adalah [[Lembaga Penyiaran Publik]]. Sebagian biaya operasional TVRI masih ditanggung oleh negara.
+
+TVRI memonopoli siaran televisi di Indonesia sebelum tahun [[1989]] ketika didirikan televisi swasta pertama [[RCTI]] di Jakarta, dan [[SCTV]] pada tahun [[1990]] di [[Surabaya]].
+
+== Sejarah ==
+=== Latar belakang ===
+* Pada tahun [[1961]], Pemerintah Indonesia memutuskan untuk memasukkan proyek media massa televisi ke dalam proyek pembangunan [[Asian Games]] IV di bawah koordinasi urusan proyek Asian Games IV.
+* Pada tanggal [[25 Juli]] [[1961]], [[Menteri Penerangan Republik Indonesia|Menteri Penerangan]] mengeluarkan SK Menpen No. 20/SK/M/1961 tentang pembentukan Panitia Persiapan Televisi (P2T).
+* Pada [[23 Oktober]] [[1961]], Presiden [[Soekarno]] yang sedang berada di Wina mengirimkan teleks kepada Menteri Penerangan saat itu, [[Maladi]] untuk segera menyiapkan proyek televisi (saat itu waktu persiapan hanya tinggal 10 bulan) dengan jadwal sebagai berikut:
+# Membangun studio di eks AKPEN di Senayan (TVRI sekarang).
+# Membangun dua pemancar: 100 watt dan 10 Kw dengan tower 80 [[meter]].
+# Mempersiapkan software (program dan tenaga).
+* Pada tanggal [[17 Agustus]] [[1962]], TVRI mulai mengadakan siaran percobaan dengan acara HUT [[Proklamasi Kemerdekaan Indonesia]] XVII dari halaman [[Istana Merdeka]] Jakarta, dengan pemancar cadangan berkekuatan 100 watt. Kemudian pada 24 Agustus 1962, TVRI mengudara untuk pertama kalinya dengan acara siaran langsung upacara pembukaan Asian Games IV dari stadion utama [[Gelora Bung Karno]].
+* Pada tanggal [[20 Oktober]] [[1963]], dikeluarkan Keppres No. 215/1963 tentang pembentukan Yayasan TVRI dengan Pimpinan Umum Presiden RI.
+* Pada tahun [[1964]] mulailah dirintis pembangunan Stasiun Penyiaran Daerah dimulai dengan TVRI Stasiun Yogyakarta, yang secara berturut-turut diikuti dengan Stasiun [[Kota Medan|Medan]], [[Kota Surabaya|Surabaya]], [[Kota Makassar|Makassar]], [[Kota Manado|Manado]], [[Kota Denpasar|Denpasar]], dan [[Kota Samarinda|Samarinda]].
+=== Pembangunan Stasiun Produksi Keliling ===
+Mulai tahun [[1977]], secara bertahap di beberapa ibu kota Provinsi dibentuklah [[Stasiun Produksi Keliling|Stasiun-stasiun Produksi Keliling]] atau SPK, yang berfungsi sebagai perwakilan atau koresponden TVRI di daerah, yang terdiri dari:
+# SPK Jayapura
+# SPK Ambon
+# SPK Kupang
+# SPK Malang (Tahun [[1982]] diintegrasikan dengan TVRI Stasiun Surabaya)
+# SPK Semarang
+# SPK Bandung
+# SPK Banjarmasin
+# SPK Pontianak
+# SPK Banda Aceh
+# SPK Jambi
+# SPK Padang
+# SPK Lampung
+
+=== TVRI pada Era Orde Baru ===
+Tahun [[1974]], TVRI diubah menjadi salah satu bagian dari organisasi dan tatakerja Departemen Penerangan, yang diberi status Direktorat, langsung bertanggung-jawab pada Direktur Jendral Radio, TV, dan Film, Departemen Penerangan Republik Indonesia.
+
+Sebagai alat komunikasi Pemerintah, tugas TVRI adalah menyampaikan informasi tentang kebijakan Pemerintah kepada rakyat dan pada waktu yang bersamaan menciptakan ''two-way traffic'' (lalu lintas dua jalur) dari rakyat untuk pemerintah selama tidak mendiskreditkan usaha-usaha Pemerintah.
+
+Pada garis besarnya tujuan kebijakan Pemerintah dan program-programnya adalah untuk membangun bangsa dan negara Indonesia yang modern dengan masyarakat yang aman, adil, tertib dan sejahtera, yang bertujuan supaya tiap warga Indonesia mengenyam kesejahteraan lahiriah dan mental spiritual. Semua kebijaksanaan Pemerintah beserta programnya harus dapat diterjemahkan melalui siaran-siaran dari studio-studio TVRI yang berkedudukan di ibukota maupun daerah dengan cepat, tepat dan baik.
+
+Semua pelaksanaan TVRI baik di ibu kota maupun di Daerah harus meletakkan tekanan kerjanya kepada integrasi, supaya TVRI menjadi suatu ''well-integrated mass media'' (media massa yang terintegrasikan dengan baik) Pemerintah.
+
+Tahun [[1975]], dikeluarkan SK Menpen No. 55 Bahan siaran/KEP/Menpen/1975, TVRI memiliki status ganda yaitu selain sebagai Yayasan Televisi RI juga sebagai Direktorat Televisi, sedang manajemen yang diterapkan yaitu manajemen perkantoran/birokrasi.
+
+Tahun [[1991]], TVRI diharuskan berbagi 8 jam dengan [[MNCTV|TPI]].
+
+=== TVRI pada Era Reformasi ===
+Bulan [[Juni]] [[2000]], diterbitkan Peraturan Pemerintah No. 36 tahun 2000 tentang perubahan status TVRI menjadi Perusahaan Jawatan (Perjan), yang secara kelembagaan berada di bawah pembinaan dan bertanggung jawab kepada Departemen Keuangan RI.
+
+Bulan [[Oktober]] [[2001]], diterbitkan Peraturan Pemerintah No. 64 tahun 2001 tentang pembinaan Perjan TVRI di bawah kantor Menteri Negara [[BUMN]] untuk urusan organisasi dan [[Kementerian Keuangan Indonesia|Departemen Keuangan RI]] untuk urusan keuangan.
+
+Tanggal [[17 April]] [[2002]], diterbitkan Peraturan Pemerintah No. 9 tahun 2002, status TVRI diubah menjadi Perseroan Terbatas (PT) TVRI di bawah pengawasan Departemen Keuangan RI dan [[Kementerian Badan Usaha Milik Negara Indonesia|Kementerian Negara BUMN]].
+
+Selanjutnya melalui Undang-Undang Republik Indonesia Nomor 32 tahun 2002 tentang Penyiaran, TVRI ditetapkan sebagai Lembaga Penyiaran Publik yang berbentuk badan hukum yang didirikan oleh negara. Semangat yang mendasari lahirnya TVRI sebagai [[Lembaga Penyiaran Publik]] adalah untuk melayani informasi untuk kepentingan publik, bersifat netral, mandiri dan tidak komersial.
+
+Peraturan Pemerintah Nomor 13 tahun 2005 menetapkan bahwa tugas TVRI adalah memberikan pelayanan informasi, pendidikan dan hiburan yang sehat, kontrol dan perekat sosial, serta melestarikan budaya bangsa untuk kepentingan seluruh lapisan masyarakat melalui penyelenggaraan penyiaran televisi yang menjangkau seluruh wilayah Negara Kesatuan Republik Indonesia. 
+
+Televisi Republik Indonesia (TVRI) merupakan stasiun televisi tertua di Indonesia dan satu-satunya televisi yang jangkauannya mencapai seluruh wilayah Indonesia dengan jumlah penonton sekitar 82 persen penduduk Indonesia. Saat ini TVRI memiliki 27 stasiun Daerah dan 1 Stasiun Pusat dengan didukung oleh 376 satuan transmisi yang tersebar di seluruh wilayah Indonesia.
+
+Ke 27 TVRI Stasiun Daerah tersebut adalah:
+{{col|3}}
+# TVRI Stasiun DKI Jakarta
+# TVRI Stasiun Aceh
+# TVRI Stasiun Sumatera Utara
+# TVRI Stasiun Sumatera Selatan dan Bangka Belitung
+# TVRI Stasiun Jawa Barat dan Banten
+# TVRI Stasiun Jawa Tengah
+# TVRI Stasiun Jogyakarta
+# TVRI Stasiun Jawa Timur
+# TVRI Stasiun Bali
+# TVRI Stasiun Sulawesi Selatan
+# TVRI Stasiun Kalimantan Timur
+# TVRI Stasiun Sumatera Barat
+# TVRI Stasiun Jambi
+# TVRI Stasiun Riau dan Kepulauan Riau
+# TVRI Stasiun Kalimantan Barat
+# TVRI Stasiun Kalimantan Selatan
+# TVRI Stasiun Kalimantan Tengah
+# TVRI Stasiun Papua
+# TVRI Stasiun Bengkulu
+# TVRI Stasiun Lampung
+# TVRI Stasiun Maluku dan Maluku Utara
+# TVRI Stasiun Nusa Tenggara Timur
+# TVRI Stasiun Nusa Tenggara Barat
+# TVRI Stasiun Gorontalo
+# TVRI Stasiun Sulawesi Utara
+# TVRI Stasiun Sulawesi Tengah
+# TVRI Stasiun Sulawesi Tenggara
+# TVRI Stasiun Sulawesi Barat
+{{EndDiv}}
+
+Karyawan TVRI pada Tahun Anggaran 2007 berjumlah 6.099 orang, terdiri atas 5.085 orang Pegawai Negeri Sipil (PNS) dan 1.014 orang Tenaga Honor/Kontrak yang tersebar di seluruh Indonesia dan sekitar 1.600 orang di antaranya adalah karyawan Kantor Pusat dan TVRI Stasiun Pusat Jakarta.
+
+TVRI bersiaran dengan menggunakan dua sistem yaitu [[VHF]] dan [[UHF]], setelah selesainya dibangun stasiun pemancar Gunung Tela Bogor pada [[18 Mei]] 2002 dengan kekuatan 80 Kw. Kota-kota yang telah menggunakan UHF yaitu Jakarta, Bandung dan Medan, selain beberapa kota kecil seperti di Kalimantan dan Jawa Timur.
+
+TVRI Pusat Jakarta setiap hari melakukan siaran selama 19 jam, mulai pukul 05.00 WIB hingga 24.00 WIB dengan substansi acara bersifat informatif, edukatif dan entertain.
+
+=== TVRI dewasa ini ===
+Dengan perubahan status TVRI dari Perusahaan Jawatan ke TV Publik sesuai dengan Undang-Undang Nomor 32 Tahun [[2002]] tentang penyiaran, maka TVRI diberi masa transisi selama 3 tahun dengan mengacu Peraturan Pemerintah Nomor 9 tahun 2002 di mana disebutkan TVRI berbentuk Persero atau PT.
+
+Melalui Persero ini Pemerintah mengharapkan Direksi TVRI dapat melakukan pembenahan-pembenahan baik di bidang Manajemen, Struktur Organisasi, SDM dan Keuangan. Sehubungan dengan itu Direksi TVRI tengah melakukan konsolidasi, melalui restrukturisasi, pembenahan di bidang Marketing dan Programing, mengingat sikap mental karyawan dan hampir semua acara TVRI masih mengacu pada status Perjan yang kurang memiliki nilai jual.
+
+Khusus mengenai karyawan, Direksi TVRI melalui restrukturisasi akan diketahui jumlah sumber daya manusia yang dibutuhkan, berdasarkan kemampuan masing-masing individu karyawan untuk mengisi fungsi-fungsi yang ada dalam struktur organisasi sesuai dengan keahlian dan profesi masing-masing, dengan kualifikasi yang jelas.
+
+Melalui restrukturisasi tersebut akan diketahui apakah untuk mengisi fungsi tersebut di atas dapat diketahui, dan apakah perlu dicari tenaga profesional dari luar atau dapat memanfaatkan sumberdaya TVRI yang tersedia.
+
+Dalam bentuk Persero selama masa transisi ini, TVRI benar-benar diuji untuk belajar mandiri dengan menggali dana dari berbagai sumber antara lain dalam bentuk kerjasama dengan pihak luar baik swasta maupun sesama [[BUMN]] serta meningkatkan profesionalisme karyawan.
+
+Dengan adanya masa transisi selama 3 tahun ini, diharapkan TVRI akan dapat memenuhi kriteria yang disyaratkan oleh undang-undang penyiaran yaitu sebagai TV publik dengan sasaran khalayak yang jelas.
+
+Bertepatan dengan peringatan Hari Kebangkitan Nasional tanggal 20 Mei 2003 yang lalu, TVRI mengoperasikan kembali seluruh pemancar stasiun relay TVRI sebanyak 376 buah, yang tersebar di seluruh Indonesia.
+
+Sebagai stasiun televisi pertama di negeri ini, TVRI telah melalui perjalanan panjang dan mempunyai peran strategis dalam perjuangan dan perjalanan kehidupan bangsa. Sesuai dengan Undang-Undang Nomor 32 Tahun 2002 tentang penyiaran, bertepatan dengan ulang tahunnya yang ke-44 ([[24 Agustus]] [[2006]]), TVRI resmi menjadi Lembaga Penyiaran Publik.
+
+== Kontroversi ==
+Pada 6 Juni 2013 pagi, TVRI menayangkan siaran tunda acara Muktamar [[Hizbut Tahrir]] Indonesia (HTI) di Senayan Jakarta. &lt;ref name=Liputan6&gt;[http://news.liputan6.com/read/602378/ribuan-peserta-muktamar-hizbut-tahrir-berdatangan-senayan-macet Ribuan Peserta Muktamar Hizbut Tahrir Berdatangan, Senayan Macet] &lt;/ref&gt; Komisioner Komisi Penyiaran Indonesia (KPI) Pusat, [[Idy Muzayyad]] menilai TVRI sebagai lembaga penyiaran publik telah 'mengalami disorientasi kebangsaan dengan menayangkan hal ini karena ideologi HTI yang mempermasalahkan ideologi negara, nasionalisme dan menolak demokrasi'. TVRI dipanggil dan terbuka kemungkinan dijatuhkan sanksi. &lt;ref name=ROL&gt;[http://www.rmol.co/read/2013/06/06/113457/Siarkan-Acara-Hizbut-Tahrir,-TVRI-Terancam-Mendapat-Sanksi- Siarkan Acara Hizbut Tahrir Pagi Ini, TVRI Terancam Mendapat Sanksi]&lt;/ref&gt;
+
+== Programa 2 ==
+TVRI juga memiliki Programa 2 Jakarta, pada saluran/chanel 8 VHF. Programa 2 mulai mengudara pada April 1989 dengan acara tunggal siaran berita [[bahasa Inggris]] dengan nama ''Six Thirty Report'' selama setengah jam pukul 18.30 WIB, di bawah tanggung jawab bagian Pemberitaan.
+
+Pada perkembangannya rubrik tersebut berubah nama menjadi '''English News Service''' (ENS).
+
+Programa 2 TVRI kini mengudara mulai pukul 16.00 - 21.00 WIB dengan berbagai jenis acara berita dan hiburan.
+
+Sekarang ini tengah dilakukan negosiasi dengan pihak swasta untuk bekerjasama di bidang manajemen produksi dan siaran programa 2 TVRI Jakarta dan sekitarnya, dengan adanya rencana perubahan frekuensi dari VHF ke UHF. Di bidang isi siaran akan lebih ditekankan kepada paket-paket jadi (''can product'') dengan materi siaran untuk konsumsi masyarakat metropolitan Jakarta.
+
+== Stasiun ==
+Stasiun Pusat TVRI berada di Jakarta, dan TVRI memiliki stasiun relay pada sejumlah kota di Indonesia. Selain TVRI Stasiun Pusat Jakarta, juga terdapat TVRI Stasiun Daerah pada beberapa ibukota provinsi di Indonesia. TVRI Stasiun Daerah selain merelay TVRI Jakarta, juga memiliki acara yang bersifat lokal (termasuk Berita Daerah) pada jam-jam tertentu. TVRI Stasiun Daerah pada umumnya juga direlay oleh stasiun relay di wilayah provinsi tersebut.
+
+Berikut adalah daftar TVRI Stasiun Daerah:
+* Sumatera:
+** [[TVRI Aceh]] (Banda Aceh)
+** [[TVRI Jambi]] (Jambi)
+** [[TVRI Sumatera Barat]] (Padang)
+** [[TVRI Sumatera Selatan]] (Palembang)
+** [[TVRI Sumatera Utara]] (Medan)
+** [[TVRI Bangka Belitung]] (Pangkalpinang)
+** [[TVRI Riau]] (Pekanbaru)
+** [[TVRI Lampung]] (Bandar Lampung)
+** [[TVRI Bengkulu]] (Bengkulu)
+* Jawa:
+** [[TVRI Jawa Barat]] (Bandung)
+** [[TVRI Jawa Tengah]] (Semarang)
+** [[TVRI Jawa Timur]] (Surabaya)
+** [[TVRI Jogja]] (Yogyakarta)
+** [[TVRI DKI Jakarta]] (Jakarta)
+* Bali dan Nusa Tenggara:
+** [[TVRI Bali]] (Denpasar)
+** [[TVRI Nusa Tenggara Barat]] (Mataram)
+** [[TVRI Nusa Tenggara Timur]] (Kupang)
+* Kalimantan:
+** [[TVRI Kalimantan Utara]] (Tarakan)
+** [[TVRI Kalimantan Timur]] (Samarinda)
+** [[TVRI Kalimantan Tengah]] (Palangkaraya)
+** [[TVRI Kalimantan Selatan]] (Banjarmasin)
+** [[TVRI Kalimantan Barat]] (Pontianak)
+* Sulawesi:
+** [[TVRI Gorontalo]] (Gorontalo)
+** [[TVRI Sulawesi Utara]] (Manado)
+** [[TVRI Sulawesi Barat]] (Mamuju)
+** [[TVRI Sulawesi Tengah]] (Palu)
+** [[TVRI Sulawesi Tenggara]] (Kendari)
+** [[TVRI Sulawesi Selatan]] (Makassar)
+* Maluku dan Papua:
+** [[TVRI Maluku]] (Ambon)
+** [[TVRI Papua]] (Jayapura)
+
+== Galeri logo ==
+{{Logo saluran televisi}}
+&lt;gallery&gt;
+Berkas:TVRILogo1962.svg|Logo pertama TVRI (24 Agustus 1962-24 Agustus 1978).
+Berkas:TVRILogo1974.png|Logo kedua TVRI (24 Agustus 1978-24 Agustus 1982).
+Berkas:Tvri jadul.svg‎|Logo ketiga TVRI (24 Agustus 1982-23 Agustus 1999). Logo ini digunakan sebagai logo ''on-air'' pada tahun 1995-1999.
+Berkas:TVRI 2007.svg|Logo ''on-air'' TVRI (1991-1995)
+Berkas:LOGO TVRI 1999.svg|Logo keempat TVRI (24 Agustus 1999-31 Juli 2001).
+Berkas:TVRI2001.svg|Logo kelima TVRI (1 Agustus 2001-1 Agustus 2003).
+Berkas:TVRILogo2003.svg|Logo keenam TVRI (1 Agustus 2003-16 April 2007).
+Berkas:TVRILogo2006.svg|Logo ketujuh TVRI (16 April 2007-sekarang).
+Berkas:TVRI2015.jpeg|Logo TVRI versi putih. Logo ini pernah digunakan sebagai ''on-air'' (sejak 7 Januari 2015)
+&lt;/gallery&gt;
+
+== Acara terkenal ==
+{{artikelutama|Daftar acara TVRI}}
+=== Anak-anak ===
+* [[Si Unyil]] 
+* [[Melukis Bersama Pak Tino Sudin]]
+* [[Budi dan Kerti]]
+* [[Arena 123]]
+
+=== Impor ===
+{{col|4}}
+* ''[[A Matter of Faith]]''
+* ''[[Automan]]''
+* ''[[Bionic Woman]]''
+* ''[[Bonanza (seri TV)|Bonanza]]''
+* ''[[Charlie's Angels]]''  
+* ''[[Friday 13th]]''
+* ''[[Manimal]]''
+* ''[[Oshin]]''
+* ''[[Remington Steele]]''
+* ''[[Return To Eden]]''
+* ''[[Six Million Dollar Man]]''
+* ''[[Six For Five]]''
+* ''[[Sledge Hammer]]''
+* ''[[Square One]]''
+* ''[[The A-Team]]''
+* ''[[The Crystal Maze]]''
+* ''[[The Ghost Hunter]]''
+* ''[[Viewtiful Joe]]''
+* ''[[Voyage To the Bottom Sea]]''
+* ''[[Wheels of Fortune]]''
+
+{{end-col}}
+=== Filler ===
+* ''[[Pesona Ilmu 60 Detik]]''
+* ''[[Sang Penemu]]''
+
+=== Berita ===
+{{col|4}}
+* ''[[Warta Nasional]]''
+* ''[[Dunia Dalam Berita]]''
+* ''[[English News Service]]''
+* ''[[Berita Terakhir]]''
+* ''[[Selamat Pagi Nusantara]]''
+* ''[[Selamat Malam Nusantara]]''
+* ''[[Warta Serumpun]]''
+* ''[[Berita Nasional]]''
+* ''[[Warta Siang]]''
+* ''[[Warta Malam]]''
+* ''[[Warta Dunia]]''
+* ''[[Bincang Malam TVRI]]''
+*''[[2 Jam Saja]]''
+*''[[Berita Pagi]]''
+{{end-col}}
+=== Olahraga ===
+* ''[[Monitor Olahraga]]''
+* ''[[Dari Gelanggang ke Gelanggang]]''
+* ''[[Arena Ke Arena]]''
+* ''[[PON]]''
+* ''[[Speedometer]]''
+* ''[[Ligue 1]] Prancis'' (2010)
+* ''[[Serie A]] Italia'' (2004-2005, 2012-2013)
+
+=== Sosial ===
+* ''[[Dari desa Ke Desa]]''
+* ''[[Klompencapir]]''
+* ''[[Pelangi Desa]]''
+* ''[[Salam Dari Desa]]''
+* ''[[Daerah Membangun]]''
+
+=== Varietas ===
+* ''[[Mana Suka Suara Niaga]]''
+* ''[[Berpacu Dalam Melodi]]''
+* ''[[Siapa Dia?]]''
+
+=== Religi ===
+* ''[[Tele Dakwah]]''
+* ''[[Hikmah Pagi]]''
+* ''[[Mimbar Rohani Agama Kristen]]''
+* ''[[Mimbar Rohani Agama Katolik]]''
+* ''[[Mimbar Rohani Agama Buddha]]''
+* ''[[Mimbar Rohani Agama Hindu]]''
+* ''[[Lintas Agama]]''
+* ''[[Percik Perenungan]]''
+* ''[[Gereja Tiberias Indonesia]]''
+* ''[[Salat Jumat]]'' ''dari'' ''[[Masjid Istiqlal|Masjid Istiqlal Jakarta]]''
+=== Klinika ===
+*''[[Hidup Sehat Cara Hembing]]''
+
+=== Lainnya (Iklan) ===
+* ''Mana Suka Siaran Niaga'' (siaran iklan)
+* ''[[Rejoice]]'' (1975)
+* ''[[Baygon]]'' (1978)
+* ''[[Rinso]]''(1979)
+* ''[[Gaga]]''(1980)
+* ''[[Molto]]'' (1981)
+* ''[[Lifebuoy]]'' (1982)
+* ''[[Ajinomoto]]'' (1983)
+* ''[[Teh Sari Wangi]]'' (1984)
+* ''[[Bodrexin]]'' (1985)
+* ''[[Bank Niaga]]'' (1986)
+* ''[[Lippobank]]'' (1987)
+* ''[[Bank BNI]]''(1988)
+* ''[[Bank BTN]]'' (1990)
+=== Musik ===
+*''[[Pulsa Musik]]''
+*''[[Musik Kristen Minggu]]'' (segera)
+*''[[Komunitas Reggae Indonesia]]''
+=== Sinetron ===
+*''[[Pelangi Kasih]]'' (segera)
+
+===Komedi===
+*''[[Ria Jenaka]]''
+
+== Penyiar ==
+=== Penyiar Tetap ===
+* [[Aldi Hawari]]
+* [[Hamdan Alkafi]]
+* [[Imam Priyono]]
+* [[Muhhamad Robitho Hamdani]]
+* [[Gumilang Adiputra]]
+* [[Theodourus Daniel]]
+* [[Rizky Ikra Negara]]
+* [[Sari Putri]]
+* [[Nurul Naila]]
+* [[Pamelia Safdia]]
+* [[Anastasia Praditha]]
+* [[Lenny Hadiawati]]
+* [[Norma Novicka]]
+* [[Kamila Aswan]]
+* [[Nirma Ramadaniya]]
+* [[Happy Goeritman]]
+* [[Kenan Judge]]
+
+=== Mantan Penyiar ===
+* [[Hasan Ashari Oramahi]]
+* [[Anita Rachman]]
+* [[Daniar Achri]] (Sekarang di Kompas TV)
+* [[Amie Ardhini]] (dahulu di [[Kompas TV]] dan sekarang di [[BeritaSatu]])
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} {{official|http://www.tvri.co.id}}
+
+{{TelevisiIndonesia}}
+{{Templat:Penyiar TVRI}}
+{{Templat:Acara TVRI}}
+
+[[Kategori:Stasiun televisi Indonesia]]
+[[Kategori:Stasiun televisi yang berdiri pada tahun 1962]]
+[[Kategori:Underbouw Orde Baru]]
+[[Kategori:Agitasi dan propaganda Orde Baru]]</text>
+      <sha1>rahohfkeute3fekn4kvynze9r9dn6nq</sha1>
+    </revision>
+  </page>

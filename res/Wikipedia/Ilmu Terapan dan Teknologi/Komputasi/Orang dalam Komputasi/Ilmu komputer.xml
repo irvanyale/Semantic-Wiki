@@ -1,0 +1,226 @@
+ <page>
+    <title>Ilmu komputer</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>9337879</id>
+      <parentid>9337878</parentid>
+      <timestamp>2015-04-24T21:40:26Z</timestamp>
+      <contributor>
+        <username>Tarlan eryawan</username>
+        <id>581297</id>
+      </contributor>
+      <comment>/* Pranala luar */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Ilmu komputer''' ({{lang-en|Computer Science}}), Secara umum diartikan sebagai ilmu yang mempelajari baik tentang [[komputasi]], perangkat keras (''hardware'') maupun perangkat lunak (''software''). Ilmu komputer mencakup beragam topik yang berkaitan dengan [[komputer]], mulai dari analisis abstrak [[algoritma]] sampai subyek yang lebih konkret seperti [[bahasa pemrograman]], [[perangkat lunak]], termasuk [[perangkat keras]]. Sebagai suatu disiplin ilmu, Ilmu Komputer lebih menekankan pada [[pemrograman komputer]], dan [[rekayasa perangkat lunak]] (''software''), sementara [[teknik komputer]] lebih cenderung berkaitan dengan hal-hal seperti perangkat keras komputer (''hardware''). Namun, kedua istilah tersebut sering disalah artikan oleh banyak orang. 
+
+[[Tesis Church-Turing]] menyatakan bahwa semua alat komputasi yang telah umum diketahui sebenarnya sama dalam hal apa yang bisa mereka lakukan, sekalipun dengan efisiensi yang berbeda. Tesis ini kadang-kadang dianggap sebagai prinsip dasar dari ilmu komputer. Para ahli ilmu komputer biasanya menekankan [[mesin von Neumann|komputer von Neumann]] atau [[mesin Turing]] (komputer yang mengerjakan tugas yang kecil dan deterministik pada suatu waktu tertentu), karena hal seperti itulah kebanyakan komputer digunakan sekarang ini. Para ahli ilmu komputer juga mempelajari jenis mesin yang lain, beberapa diantaranya belum bisa dipakai secara praktikal (seperti [[komputer neural]], [[komputer DNA]], dan [[komputer kuantum]]) serta beberapa diantaranya masih cukup teoritis (seperti [[komputer random]] and [[komputer oracle]]). 
+
+Ilmu Komputer mempelajari apa yang bisa dilakukan oleh beberapa program, dan apa yang tidak ([[komputabilitas]] dan [[intelegensia buatan]]), bagaimana program itu harus mengevaluasi suatu hasil ([[algoritma]]), bagaimana program harus menyimpan dan mengambil bit tertentu dari suatu informasi ([[struktur data]]), dan bagaimana program dan pengguna berkomunikasi ([[antarmuka pengguna]] dan [[bahasa pemrograman]]).
+
+Ilmu komputer berakar dari [[elektronika]], [[matematika]] dan [[linguistik]]. Dalam tiga dekade terakhir dari [[abad 20]], ilmu komputer telah menjadi suatu disiplin ilmu baru dan telah mengembangkan metode dan istilah sendiri.
+
+Departemen ilmu komputer pertama didirikan di [[Universitas Purdue]] pada tahun [[1962]]. Hampir semua universitas sekarang mempunyai departemen ilmu komputer.
+
+Penghargaan tertinggi dalam ilmu komputer adalah [[Turing Award]], pemenang penghargaan ini adalah semua pionir di bidangnya.
+
+[[Edsger Dijkstra]] mengatakan:
+:''Ilmu komputer bukan tentang komputer sebagaimana astronomi bukan tentang teleskop'' 
+
+Fisikawan [[Richard Feynman]] mengatakan:
+:''Ilmu komputer umurnya tidak setua fisika; lebih muda beberapa ratus tahun. Walaupun begitu, ini tidak berarti bahwa &quot;hidangan&quot; ilmuwan komputer jauh lebih sedikit dibanding fisikawan. Memang lebih muda, tapi dibesarkan secara jauh lebih intensif!''
+
+== Catatan tentang istilah 'Informatika' dan 'Ilmu komputer' ==
+Dalam [[bahasa Indonesia]], istilah '''Informatika''' diturunkan dari bahasa [[Perancis]] ''informatique'', yang dalam bahasa Jerman disebut ''Informatik''. Sebenarnya, kata ini identik dengan istilah ''computer science'' di Amerika Serikat dan ''computing science'' di Inggris. Namun, istilah ''informatics'' dalam bahasa Inggris memiliki makna yang sedikit berbeda, yaitu lebih menekankan pada aspek pengolahan informasi secara sistematis dan rasional.
+
+== Hubungan Informatika dengan bidang lain ==
+Ilmu komputer berkaitan erat dengan beberapa bidang lain. Bidang-bidang ini tidak benar-benar terpisah, sekalipun mempunyai perbedaan penting.
+
+=== [[Sistem Informasi]] ===
+'''Sistem Informasi''' adalah aplikasi komputer untuk mendukung operasi dari suatu organisasi yaitu: operasi, instalasi, dan perawatan komputer, perangkat lunak, dan data. [[Sistem Informasi Manajemen]] adalah kunci dari bidang yang menekankan finansial dan personal manajemen.
+'Sistem Informasi' dapat berupa gabungan dari beberapa elemen teknologi berbasis komputer yang saling berinteraksi dan bekerja sama berdasarkan suatu prosedur kerja (aturan kerja) yang telah ditetapkan, dimana memproses dan mengolah data menjadi suatu bentuk informasi yang dapat digunakan dalam mendukung keputusan.
+
+=== [[Ilmu Informasi]] ===
+'''Ilmu Informasi''' adalah ilmu yang mempelajari data dan informasi, mencakup bagaimana menginterpretasi, menganalisis, menyimpan, dan mengambil kembali. Ilmu informasi dimulai sebagai dasar dari analisis [[komunikasi]] dan [[basis data]].
+
+=== [[Rekayasa perangkat lunak|Rekayasa Perangkat Lunak]] ===
+'''Rekayasa Perangkat Lunak''' pada prinsipnya menekankan pada tahapan-tahapan pengembangan suatu perangkat lunak yakni : Analisis, Desain, Implementasi, Testing dan Maintenance. Pada tahap yang lebih luas Rekayasa Perangkat Lunak mengacu pada Manajemen Proyek pengembangan Perangkat Lunak itu sendiri dengan tetap memperhatikan tahapan-tahapan pengembangan sebelumnya.
+
+Dalam pengembangannya perangkat lunak memiliki berbagai model yaitu model water fall ('model konvensional' sebagai model terdahulu yang dikembangkan dan karena model water fall nyaris sama dengan siklus hidup pengembangan sistem), model prototype ('model yang disukai oleh user dan pengembang), model sequensial linear, model RAD 'rapid aplikation model', model 'formal method' atau 'metode formal' disini sebelum diadakannya implementasi terlebih dahulu rancangan model yang dibuat diverifikasi terlebih dahulu sehingga tidak ada lagi kesalahan - kesalahan pada saat implementasi.
+
+=== [[Rekayasa Komputer]]([[Rekayasa Perangkat Keras]]) ===
+'''Rekayasa Komputer''' adalah ilmu yang mempelajari analisis, desain, dan konstruksi dari perangkat keras komputer.
+
+Ilmu yang mempelajari segala aspek pembuatan, konstruksi, pemeliharaan perangkat lunak.
+
+=== [[Keamanan Informasi]] ===
+'''Keamanan Informasi''' adalah ilmu yang mempelajari analisis dan implementasi dari keamanan sistem informasi (termasuk [[Kriptografi]]).
+
+== Cabang Ilmu Utama Informatika ==
+
+=== Dasar Matematika ===
+* [[Aljabar Boolean]]
+* [[Matematika Diskrit]]
+* [[Teori graf|Teori Graf]]
+* [[Teori Informasi]]
+* [[Logika Simbolik]]
+* [[Peluang]] and [[Statistik]]
+
+=== Teori Ilmu Komputer ===
+* [[Teori Informasi Algoritmik]]
+* [[Kompilator]]
+** [[Analisis Leksikal]]
+** [[Penguraian]]
+* [[Kriptografi]]
+* [[Semantik Denotasional]]
+* [[Komputasi|Teori Komputasi]] (atau ''Ilmu Komputer Teoritis'')
+** analisis dari [[algoritma]] dan [[Teori Kompleksitas Komputasi|kompleksitas]] dari problem
+** logika dan arti dari program
+** logika matematika dan bahasa formal
+* [[Teori Tipe]]
+
+=== Perangkat Lunak ===
+* [[Program Komputer]] and [[Pemrograman Komputer]]
+** [[Pemrograman Paralel]]
+** [[Spesifikasi Program]]
+** [[Verifikasi Program]]
+* Teknik Pemrograman
+* Perangkat Komputer
+* [[Rekayasa Perangkat Lunak]]
+** [[Optimisasi Perangkat Lunak|Optimisasi]]
+** [[Metrik Perangkat Lunak]]
+** [[Pola Desain (Ilmu Komputer)|Pola Desain]]
+** [[Metode Pengembangan Perangkat Lunak]]
+* [[Bahasa Pemrograman]]
+* [[Sistem Operasi]]
+
+=== Organisasi Sistem Komputer ===
+(lihat juga [[elektronika]])
+* [[Arsitektur Komputer]]
+* [[Jaringan Komputer]]
+* [[Komputasi Terdistribusi]]
+* [[Komputasi grid]]
+* Kinerja dari Sistem
+* Implementasi dari Sistem Komputer
+
+=== Data dan Sistem Informasi ===
+* [[Struktur Data]]
+* Representasi penyimpan [[data]]
+* [[Kriptografi|Enkripsi data]]
+* [[Kompresi data]]
+* [[pengodean|Pengkodean]] dan Teori Informasi
+* Berkas 
+** [[Format Berkas]]
+* Sistem Informasi
+** [[Basis Data]]
+** [[data mining|Data Mining]]
+** [[Data Warehouse]]
+** Penyimpanan dan [[Pengambilan Informasi|Pengambilan]] Informasi
+** Antarmuka dan presentasi informasi
+
+=== Metodologi Komputasi ===
+* manipulasi simbolik dan aljabar
+* [[Kecerdasan Buatan]]
+* [[Grafik Komputer]]
+* [[Pengolahan Citra]] dan [[Visi Komputer]]
+* [[Pengenalan Pola]]
+** [[Pengenalan Suara]]
+* Simulasi dan Pemodelan
+* Pengolahan dokumen dan teks
+* [[Pengolahan Sinyal Digital]]
+
+=== Aplikasi Komputer ===
+* Pengolahan data administratif
+* Perangkat lunak matematika
+** [[Analisis numerik]]
+** [[Pembukti teori otomatis]]
+** [[Aljabar komputer]]
+* Ilmu dan teknik fisika
+** [[Kimia Komputasional]]
+** [[Fisika Komputasional]]
+* Ilmu hayat dan medis
+** [[Bioinformatika]]
+** [[Biologi Komputasional]]
+** [[Informatika Medika]]
+* Sosiologi
+* Seni dan kemanusiaan
+* rekayasa berbantuan komputer
+* [[Robotik]]
+* [[Interaksi manusia dan komputer]]
+** [[Sintesa suara]]
+** [[Rekayasa kedapatgunaan]]
+* [[Hiburan]]
+** [[Permainan Komputer]]
+
+=== Lingkungan Komputasi ===
+* Industri Komputer
+* [[Sejarah dari Perhitungan]]
+* Komputer dan pendidikan
+* Komputer dan masyarakat
+** [[Kerja Kooperatif Didukung Komputer]]
+* Aspek hukum dari komputer
+* manajemen dari komputasi dan sistem informasi
+* personal komputer
+
+* [[Keamanan Komputer|Komputer]] dan [[Keamanan Informasi]]
+
+== Sejarah ==
+* [[Sejarah dari Perhitungan]]
+* [[Projek pemrograman awal]]
+* [[Departemen Ilmu Komputer]]
+* [[Garis Waktu dari Algoritma]]
+
+== Ahli Terkenal Ilmu Komputer ==
+* [[John Backus]] Penemu FORTRAN, bahasa pemrograman tingkat tinggi pertama dan [[susunan Backus-Naur]] untuk mendeskripsikan bahasa formal [[sintaks]].
+* [[James Cooley]] dan [[John Tuckey]] Fourier Transform Cepat (Fast Fourier Transform) dan pengaruhnya pada riset keilmuan.
+* [[Ole-Johan Dahl]] dan [[Kristen Nygaard]], penemu bahasa berorientasi objek SIMULA.
+* [[Edsger Dijkstra]] untuk algoritma, [[Goto|Goto dianggap berbahaya]].
+* [[Kenneth Iverson]] Penemu APL, untuk kontribusinya di perhitungan interaktif. 
+* [[William Kahan]] untuk standard IEEE floating-point.
+* [[Donald Knuth]] untuk Seni dari Pemrograman Komputer
+* [[Ada Lovelace]] programer terkenal pertama di dunia
+* [[John von Neumann]] yang telah mengembangkan [[arsitektur von Neumann]].
+* [[Claude E. Shannon]] untuk teori informasi
+* [[Alan Turing]] untuk teori komputabilitas.
+* [[James Wilkinson]] Teknik &quot;analisis kesalahan dari belakang&quot; dan kemajuan di bidang perhitungan matriks. Wilkinson adalah juga penggerak dalam pengembangan Pilot ACE, komputer di Inggris yang pertama, pada akhir 1940-an. (lihat Wilkinson pada biografi MacTutor.)
+* [[Konrad Zuse]] Pembuat binari komputer yang pertama pada 1930-an, di mana dia menrencanakan bahasa pemrograman jauh sebelum waktunya.
+
+Lihat [[Daftar Ahli Ilmu Komputer]] untuk informasi lebih lanjut.
+
+== Lihat pula ==
+* [[Bug]]
+* [[Bahasa Pemrograman]]
+* [[Perhitungan]]
+* [[Sejarah dari Perhitungan]]
+* [[Turing Award]] ([[ACM]])
+* [[Medali IEEE John von Neumann]]
+* [[Hello world]]
+* [[Istilah Komputer]]
+* [[Berkas Istilah|Istilah Khusus Komputer]]
+* [[Topik utama Ilmu Komputer]]
+* [[Analogi Perhitungan]]
+* [[Internet]]
+* [[Multimedia]]
+* [[Akusisi data]]
+* [[Tolok]]
+* [[Jaringan Sensor]]
+* [[Komputasi dan Algorithma Online]],
+* [[Format Bilangan Komputer]]
+
+== Pranala luar ==
+{{Commonscat|Computer science}}
+* [http://www.ilmu-komputer.org/ Kumpulan Informasi Ilmu Komputer ]
+* [http://www.tuntor.com/ Belajar Ilmu Komputer - tersedia puluhan ribu istilah]
+* Daftar perguruan tinggi di Indonesia yang terakreditasi, berikut informasi akreditasinya (dari Direktorat Jenderal Pendidikan Tinggi):
+** [http://dikti.org/ban2004.php?searchon=ps&amp;searchfor=Ilmu+Komputer&amp;rank=semuanya&amp;strata=semuanya&amp;pt=&amp;NUM_RECS=20&amp;search=Search&amp;offset=0&amp;upper=20&amp;lower=1 Perguruan tinggi dengan program studi '''Ilmu Komputer''']{{dead link|Agustus 2013}}
+** [http://dikti.org/ban2004.php?searchon=ps&amp;searchfor=Teknik+Informatika&amp;rank=semuanya&amp;strata=semuanya&amp;pt=&amp;NUM_RECS=20&amp;search=Search&amp;offset=0&amp;upper=20&amp;lower=1 Perguruan tinggi dengan program studi '''Teknik Informatika''']{{dead link|Agustus 2013}}
+** [http://dikti.org/ban2004.php?searchon=ps&amp;searchfor=informatika&amp;rank=semuanya&amp;strata=semuanya&amp;pt=&amp;NUM_RECS=20&amp;search=Search&amp;offset=0&amp;upper=20&amp;lower=1 Perguruan tinggi dengan program studi yang mengandung kata '''informatika''' (Teknik Informatika, Manajemen Informatika, dsb.)]{{dead link|Agustus 2013}}
+** [http://dikti.org/ban2004.php?searchon=ps&amp;searchfor=komputer&amp;rank=semuanya&amp;strata=semuanya&amp;pt=&amp;NUM_RECS=20&amp;search=Search&amp;offset=0&amp;upper=20&amp;lower=1 Perguruan tinggi dengan program studi yang mengandung kata '''komputer''' (Ilmu Komputer, Teknik Komputer, dsb.)]{{dead link|Agustus 2013}}
+
+[[Kategori:Ilmu komputer| ]]
+
+{{teknologi}}</text>
+      <sha1>rclr420aoptfgwwyoytsby8xvfm4tek</sha1>
+    </revision>
+  </page>

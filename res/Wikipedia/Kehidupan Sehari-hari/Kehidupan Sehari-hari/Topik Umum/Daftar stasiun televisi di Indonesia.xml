@@ -1,0 +1,361 @@
+<page>
+    <title>Daftar stasiun televisi di Indonesia</title>
+    <ns>0</ns>
+    <id>799</id>
+    <revision>
+      <id>10329446</id>
+      <parentid>10251654</parentid>
+      <timestamp>2015-10-15T05:28:03Z</timestamp>
+      <contributor>
+        <username>Arifin.wijaya</username>
+        <id>478481</id>
+      </contributor>
+      <comment>/* Saluran */ menambahkan the first comedy network ke dalam daftar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Lindungidarianon2}}
+Sejak berdirinya [[TVRI]] pada [[1962]], hingga 27 tahun setelah berdirinya TVRI, penduduk Indonesia hanya bisa menyaksikan satu saluran televisi saja. Namun pada tahun [[1989]], Pemerintah akhirnya mengizinkan [[RCTI]] sebagai stasiun televisi [[swasta pertama]] di Indonesia, meski hanya penduduk yang mempunyai [[antena parabola]] dan dekoder yang dapat menyaksikan RCTI, walaupun pada akhirnya dibuka untuk masyarakat mulai tanggal [[21 Maret]] [[1992]] di Bandung. Berikut ini adalah '''daftar stasiun televisi di Indonesia'''.
+
+== Stasiun televisi siaran gratis ==
+Berikut adalah stasiun televisi [[siaran gratis]] di Indonesia yang salurannya dapat ditangkap melalui antena UHF/VHF ([[televisi terestrial|terestrial]]). Sejak berlakunya Undang-Undang Nomor 32 Tahun 2002 tentang Penyiaran, izin penyelenggaran siaran televisi melalui antena UHF/VHF (terestrial) yang dikeluarkan hanyalah untuk stasiun televisi lokal. Stasiun televisi yang ingin melakukan siaran nasional harus melakukan siaran [[sistem televisi berjaringan di Indonesia|berjaringan]] antar beberapa stasiun televisi lokal.
+
+=== Terestrial ===
+==== Nasional ====
+Televisi Nasional:
+* [[antv]]
+* [[Global TV]]
+* [[Indosiar]]
+* [[iNews TV]]
+* [[Kompas TV]]
+* [[MetroTV]]
+* [[MNCTV]]
+* [[NET.]]
+* [[Rajawali Televisi]]
+* [[RCTI]]
+* [[SCTV]]
+* [[Trans TV]]
+* [[Trans7]]
+* [[tvOne]]
+* [[Televisi Republik Indonesia|TVRI]]
+
+Perkembangan stasiun televisi nasional di Indonesia:
+&lt;br/&gt;
+&lt;timeline&gt;
+ImageSize = width:780 height:360
+PlotArea = left:130 right:5 top:30 bottom:30
+DateFormat = yyyy
+TimeAxis = orientation:horizontal format:yyyy
+
+Period = from:1960 till:2015
+AlignBars = early
+ScaleMajor = unit:year increment:100 start:1962
+
+Define $dx=-5
+
+PlotData =
+  bar:TVRI width:20 color:red shift:($dx,-20)
+  from:1962 till:2015  color:yellow
+  at:1962 text:&quot; [[TVRI]]&quot; shift:($dx,-5)
+  
+  bar:RCTI width:20 color:red shift:($dx,-20)
+  from:1989 till:2015  color:orange
+  at:1989 text:&quot; [[RCTI]]&quot; shift:($dx,-5)
+
+  bar:SCTV width:20 color:red shift:($dx,-20)
+  from:1990 till:2015  color:powderblue2
+  at:1990 text:&quot; [[SCTV]]&quot; shift:($dx,-5) 
+
+  bar:MNCTV width:20 color:red shift:($dx,-20)
+  from:1991 till:2010  color:redorange
+  from:2010 till:2015  color:powderblue
+  at:1991 text:&quot; [[TPI]]&quot; shift:($dx,-5)
+  at:2010 text:&quot; [[MNCTV]]&quot; shift:($dx,-5)
+
+  bar:ANTV width:20 color:red shift:($dx,-20)
+  from:1993 till:2015  color:green
+  at:1993 text:&quot; [[ANTV]]&quot; shift:($dx,-5)
+
+  bar:Indosiar width:20 color:red shift:($dx,-20)
+  from:1995 till:2015  color:drabgreen
+  at:1995 text:&quot; [[Indosiar]]&quot; shift:($dx,-5)
+
+  bar:MetroTV width:20 color:red shift:($dx,-20)
+  from:2000 till:2015  color:powderblue2
+  at:2000 text:&quot; [[MetroTV]]&quot; shift:($dx,-5)
+
+  bar:Trans7 width:20 color:red shift:($dx,-20)
+  from:2001 till:2006  color:red
+  from:2006 till:2015  color:blue
+  at:2001 text:&quot; [[TV7]]&quot; shift:($dx,-5)
+  at:2007 text:&quot; [[Trans7]]&quot; shift:($dx,-5)
+
+  bar:Trans&amp;nbsp;TV width:20 color:red shift:($dx,-20)
+  from:2001 till:2015  color:skyblue
+  at:2001 text:&quot; [[TransTV]]&quot; shift:($dx,-5)
+
+  bar:tvOne width:20 color:red shift:($dx,-20)
+  from:2002 till:2008  color:yellow
+  from:2008 till:2015  color:red
+  at:2002 text:&quot; [[Lativi]]&quot; shift:($dx,-5)
+  at:2009 text:&quot; [[tvOne]]&quot; shift:($dx,-5)
+
+  bar:Global&amp;nbsp;TV width:20 color:red shift:($dx,-20)
+  from:2002 till:2015  color:blue
+  at:2002 text:&quot; [[Global TV]]&quot; shift:($dx,-5)
+
+  bar:iNews&amp;nbsp;TV width:20 color:red shift:($dx,-20)
+  from:2005 till:2008  color:pink
+  from:2008 till:2011  color:orange
+  from:2011 till:2015  color:blue
+  from:2015 till:2015  color:red
+  at:2005 text:&quot; [[VH1 Indonesia|VH1]]&quot; shift: ($dx,-5)
+  at:2008 text:&quot; [[SUN TV Indonesia|SUN TV]]&quot; shift:($dx,-5)
+  at:2011 text:&quot; [[SINDOtv]]&quot; shift:($dx,-5)
+  at:2015 text:&quot; [[iNews TV]]&quot; shift:($dx,-5)
+
+  bar:RTV width:20 color:purple shift:($dx,-20)
+  from:2009 till:2014  color:skyblue
+  from:2014 till:2015  color:purple
+  at:2009 text:&quot; [[B-Channel]]&quot; shift:($dx,-5)
+  at:2014 text:&quot; [[Rajawali Televisi|RTV]]&quot; shift:($dx,-5)
+
+  bar:Kompas&amp;nbsp;TV width:20 color:red shift:($dx,-20)
+  from:2011 till:2015  color:blue
+  at:2011 text:&quot; [[Kompas TV]]&quot; shift:($dx,-5)
+
+  bar:NET. width:20 color:skyblue shift:($dx,-20)
+  from:2013 till:2015  color:skyblue
+  at:2013 text:&quot; [[NET.]]&quot; shift:($dx,-5)
+&lt;/timeline&gt;
+
+==== Berjaringan ====
+{{lihatpula|Sistem televisi berjaringan di Indonesia}}
+Sejak berlakunya Undang-Undang Nomor 32 Tahun 2002 tentang Penyiaran, telah terdapat beberapa stasiun televisi yang melakukan siaran berjaringan dengan stasiun-stasiun televisi lokal di berbagai daerah.
+* [[BeritaSatu|BeritaSatu TV]]
+* [[CNN Indonesia]]
+* [[CTV Banten|CTV Network]]
+* [[City TV Network]]
+* [[Indonesia Network]]
+* [[InspiraTV]]
+* [[Jawa Pos TV]]
+* [[Sakti TV|Sakti TV Network]]
+* [[TempoTV]]
+* [[Top TV Network]]
+* [[TV9 Nusantara]]
+
+==== Lokal ====
+{{utama|Daftar stasiun televisi lokal di Indonesia}}
+
+==== Satelit ====
+Selain sistem analog, di Indonesia juga banyak digunakan sistem penyiaran melalui satelit yang hanya dapat ditangkap dengan menggunakan [[antena parabola]]. Awalnya sistem ini menggunakan antena parabola berukuran besar. Terdapat tiga satelit Indonesia yang memiliki prioritas orbit di atas Indonesia, yaitu [[Telkom-1]], [[Telkom-2]] dan [[Palapa D]]. Berikut ini adalah stasiun televisi siaran gratis di Indonesia yang disiarkan melalui sistem ini:
+* [[Lembaga Kantor Berita Nasional Antara|ANTARA TV]]
+* [[Arjuna TV]]
+* [[Aswaja TV]]
+* [[Aula (Indonesia)|Aula]]
+* [[Bunayya TV]]
+* [[DAAI TV]]
+* [[Damai TV]]
+* [[DMC TV]]
+* [[Gogomall Homeshopping (Indonesia)|Gogomall Homeshopping]]
+* [[HCBN Indonesia]]
+* [[Haari TV]]
+* [[Hope Channel]]
+* [[Insan TV]]
+* [[Islam Channel]]
+* [[Jaya TV]]
+* [[K-Drama (Indonesia)|K-Drama]]
+* [[Lejel Home Shopping]]
+* [[Malakoot Shine TV]]
+* [[Matrix TV]]
+* [[Majelis Tafsir Al Qur'an TV|MTA TV]]
+* [[N3WS]]
+* [[Quran Tazkiah]]
+* [[Rasil TV]]
+* [[Rodja TV]]
+* [[Ruai TV]]
+* [[Rujak TV]]
+* [[Share]]
+* [[Shine Initiatives]]
+* [[Spacetoon (Indonesia)|Spacetoon]]
+* [[Spacetoon (Indonesia)|Spacetoon 2]]
+* [[TV Edukasi]]
+* [[TVMu]]
+* [[TV MUI]]
+* [[Tahfidz TV]]
+* [[U-Channel]]
+* [[Ummat TV]]
+* [[Wesal TV]]
+* [[YMTV]]
+Hampir seluruh stasiun televisi siaran gratis nasional dan berjaringan dan beberapa stasiun televisi lokal juga disiarkan melalui satelit dan dapat ditangkap melalui antena parabola.&lt;ref&gt;[http://pusatinfoelektronik.com/6274/televisi-indo/ Pusat Info Elektronik]&lt;/ref&gt;
+
+== Stasiun televisi berlangganan ==
+Berikut adalah stasiun televisi [[televisi berlangganan|berlangganan]] di Indonesia yang salurannya hanya dapat ditangkap dengan alat penerima tertentu (''receiver''/''decoder'') melalui [[televisi satelit|satelit]], [[televisi kabel|kabel]], atau terestrial. Stasiun televisi berlangganan dapat memiliki lebih dari 1 saluran.
+* [[Aora|Aora TV]] (tidak beroperasi)
+* [[Astro Nusantara]] (tidak beroperasi)
+* [[Big TV (Indonesia)|Big TV]] 
+* [[Centrin TV]] (tidak beroperasi)
+* [[First Media]] (dahulu [[Digital1]] dan [[Kabelvision]])
+* [[Groovia TV]]
+* [[HOMELinks]]
+* [[IM2 PayTV]]
+* [[Indovision]]
+* [[Innovate]]
+* [[K-vision]]
+* [[M2V Mobile TV]]
+* [[max3]]
+* [[Nexmedia]]
+* [[OkeVision]]
+* [[OrangeTV]]
+* [[Skynindo]]
+* [[TransVision]] (dahulu [[TelkomVision]] dan [[YesTV]])
+* [[Topas TV]]
+* [[Top TV (TV berlangganan)|Top TV]]
+* [[UseeTV]]
+* [[viva+]] (dahulu Vivasky)
+
+=== Saluran ===
+Berikut adalah saluran televisi Indonesia yang hanya tersedia melalui operator televisi berlangganan tertentu.
+{{col|4}}
+* [[Alif TV]]
+* [[Alula (saluran TV)|Alula]]
+* [[Arena (saluran TV)|Arena Channel]]
+* [[Arus Hayat]]
+* [[Auto &amp; Gadget (saluran televisi)|Auto &amp; Gadget]]
+* [[BeritaSatu|BeritaSatu English]]
+* [[BeritaSatu|BeritaSatu News Channel]]
+* [[BeritaSatu Sports]]
+* [[BeritaSatu|BeritaSatu World]]
+* [[Big Show (saluran televisi)|Big Show]]
+* [[Big Channel List]]
+* [[Bin Fen]]
+* [[Bioskop Indonesia (saluran TV)|Bioskop Indonesia]]
+* [[Bola Indonesia]]
+* [[CNN Indonesia]]
+* [[Caraka Nusantara TV|CNTV]]
+* [[Comedy Channel]]
+* [[D'Jak]]
+* [[Dangdut Channel]]
+* [[Dangdutz]]
+* [[Drama Channel]]
+* [[Dunia Anak (saluran TV)|Dunia Anak]]
+* [[Dunia Lain (saluran TV)|Dunia Lain]]
+* [[Eat &amp; Go]]
+* [[Edukasi (saluran TV)|Edukasi]]
+* [[Festival (saluran TV)|Festival Channel]]
+* [[Food &amp; Travel (saluran televisi)|Food &amp; Travel]]
+* [[FOODIE]]
+* [[Galaxy (saluran TV)|Galaxy]]
+* [[Games Channel]]
+* [[Gerr...]]
+* [[Haari TV]]
+* [[Haari Kids]]
+* [[Haari Drama]]
+* [[Haari Movie]]
+* [[Haari Music]]
+* [[Health &amp; Beauty (saluran televisi)|Health &amp; Beauty]]
+* [[Hi! TV]]
+* [[Hidayah (saluran televisi)|Hidayah]]
+* [[Home &amp; Living (saluran televisi)|Home &amp; Living]]
+* [[IBCM Channel]]
+* [[Info Channel]]
+* [[Insert (saluran TV)|Insert]]
+* [[J'Go TV]]
+* [[Jakarta Globe TV]]
+* [[Jelita (saluran TV)|Jelita]]
+* [[Jendela (saluran TV)|Jendela]]
+* [[Jowo Channel]]
+* [[K+]]
+* [[karaOKE Channel]]
+* [[Karaoke Channel]]
+* [[Khazanah (saluran TV)|Khazanah]]
+* [[Kidnesia]]
+* [[Kids Channel]]
+* [[Male (saluran TV)|Male]]
+* [[Maung]]
+* [[max3 Kids|max3 Kids HD]]
+* [[max3 Lifestyle|max3 Lifestyle HD]]
+* [[MD Channel]]
+* [[MIX TV|MIX]]
+* [[MNC International|MNC Channel]]
+* [[MNC Entertainment]]
+* [[MNC Infotainment]]
+* [[MNC Fashion]]
+* [[MNC Lifestyle]]
+* [[MNC Muslim]]
+* [[MNC News]]
+* [[MNC Shop]]
+* [[MNC Sports|MNC Sports 1]]
+* [[MNC Sports|MNC Sports 2]]
+* [[Movie Channel]]
+* [[MTV Indonesia]]
+* [[MNC Music|Music Channel]]
+* [[MyBeatz]]
+* [[My Movies]]
+* [[Nex Drama]]
+* [[Nex Entertainment]]
+* [[Nova Channel]]
+* [[On Channel]]
+* [[Pelangi (saluran TV)|Pelangi]]
+* [[Pop Channel]]
+* [[Reformed 21]]
+* [[Showcase (saluran TV)|Showcase]]
+* [[Sinefilm Indonesia]]
+* [[Soccer Channel]]
+* [[Spacetoon Plus]]
+* [[Sport One]]
+* [[Sru!]]
+* [[T-Music]]
+* [[Tahan Tawa (saluran TV)|Tahan Tawa]]
+* [[The First Comedy Network]]
+* [[The Indonesia Channel]]
+* [[Top Hits]]
+* [[TV Parlemen]]
+* [[Vision 2 Drama]]
+* [[Viva+ Channel]]
+{{EndDiv}}
+
+== Stasiun TV yang sudah ditutup ==
+* [[TV7]] tutup pada tanggal [[15 Desember]] [[2006]] digantikan [[Trans7]]
+* [[VH1 Indonesia]] tutup pada tanggal [[31 Desember]] [[2006]] digantikan [[SUN TV Indonesia|SUN TV]]
+* [[MTV Indonesia]] tutup pada tanggal [[31 Maret]] [[2007]] dikembalikan [[MTV Asia Tenggara]] diluncurkan kembali pada tanggal [[1 November]] [[2014]]
+* [[Digital1]] dan [[Kabelvision]] tutup pada tanggal [[30 Juni]] [[2007]] digantikan [[First Media]]
+* [[Lativi|LatiVi]] tutup pada tanggal [[14 Februari]] [[2008]] digantikan [[tvOne]]
+* [[Astro Nusantara]] tutup pada tanggal [[19 Oktober]] [[2008]] digantikan [[Aora|Aora TV]]
+* [[TPI]] tutup pada tanggal [[20 Oktober]] [[2010]] digantikan [[MNCTV]]
+* [[SUN TV Indonesia|SUN TV]] tutup pada tanggal [[25 September]] [[2011]] digantikan [[SINDOtv]]
+* [[Centrin TV]] tutup pada tanggal [[28 Februari]] [[2013]] dikembalikan [[Aora|Aora TV]]
+* [[Spacetoon (Indonesia)|Spacetoon]] di [[televisi terestrial|terestrial]] tutup pada tanggal [[17 Mei]] [[2013]] digantikan [[NET.]]
+* [[B-Channel]] tutup pada tanggal [[3 Mei]] [[2014]] digantikan [[Rajawali Televisi|RTV]]
+* [[TelkomVision]] dan [[YesTV]] tutup pada tanggal [[22 Mei]] [[2014]] digantikan [[Transvision]]
+* [[Aora|Aora TV]] tutup pada tanggal [[23 Maret]] [[2015]] dikembalikan [[K-vision]]
+* [[SINDOtv]] tutup pada tanggal [[6 April]] [[2015]] digantikan [[iNews TV]]
+* [[Jawa Pos Multimedia Corporation|JPMC]] tutup pada tanggal [[17 Agustus]] [[2015]] digantikan [[Jawa Pos TV]]
+* [[Bloomberg TV Indonesia]] tutup pada tanggal [[26 Agustus]] [[2015]] dikembalikan [[Bloomberg Television]]
+
+== Lihat pula ==
+* [[Sistem televisi berjaringan di Indonesia]]
+* [[Daftar stasiun televisi lokal di Indonesia]]
+* [[Komisi Penyiaran Indonesia]]
+* [[Kementerian Komunikasi dan Informatika Indonesia]]
+* [[Daftar stasiun televisi nasional tertua di Indonesia]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.asiawaves.net/indonesia-tv.htm Stasiun TV di Indonesia]
+* {{id}} [http://www.tvguide.co.id Jadwal Siaran TV Indonesia]
+* {{id}} [http://www.mytrans.com MyTRANS, Live Streaming Trans TV dan Trans7]
+* {{id}} [http://www.kom.ps/tv Kompas TV Live Streaming]
+
+{{TelevisiIndonesia}}
+{{Topik Indonesia}}
+
+{{indo-stub}}
+{{komunikasi-stub}}
+
+[[Kategori:Stasiun televisi Indonesia| {{PAGENAME}}]]
+[[Kategori:Daftar bertopik Indonesia|Televisi]]</text>
+      <sha1>lmks1sh6m1zwe87kng6u1vx4c9bh3nw</sha1>
+    </revision>
+  </page>

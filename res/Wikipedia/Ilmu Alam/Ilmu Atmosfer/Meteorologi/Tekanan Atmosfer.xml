@@ -1,0 +1,29 @@
+<artikel>
+<judul>
+Tekanan atmosfer
+</judul>
+<isi>
+Alat pengukur tekanan atmosfer/ udara (barometer) yang ada dalam pesawat udara yang menjadi satu dengan alat pengukur ketinggian pesawat (altimeter)
+
+Tekanan atmosfer adalah tekanan pada titik manapun di atmosfer bumi. Umumnya, tekanan atmosfer hampir sama dengan tekanan hidrostatik yang disebabkan oleh berat udara di atas titik pengukuran. Massa udara dipengaruhi tekanan atmosfer umum di dalam massa tersebut, yang menciptakan daerah dengan tekanan tinggi (antisiklon) dan tekanan rendah (depresi). Daerah bertekanan rendah memiliki massa atmosfer yang lebih sedikit di atas lokasinya, di mana sebaliknya, daerah bertekanan tinggi memiliki massa atmosfer lebih besar di atas lokasinya.
+
+Meningkatnya ketinggian menyebabkan berkurangnya jumlah molekul udara secara eksponensial. Karenanya, tekanan atmosfer menurun seiring meningkatnya ketinggian dengan laju yang menurun pula. Berikut adalah rumus pendekatan untuk tekanan atmosfer:
+
+    \log_{10} P \approx {5-{h \over 15500}} ,
+
+di mana P adalah tekanan dalam pascal dan h adalah ketinggian dalam meter. Persamaan ini menunjukkan bahwa tekanan pada ketinggian 31 km adalah sekitar 10(5-2) Pa = 1000 Pa, atau 1% dari tekanan pada permukaan laut. Secara kasar, untuk beberapa kilometer di atas permukaan laut, tekanan berkurang 100 hPa per kilometer.
+Pranala luar
+	Wikimedia Commons memiliki galeri mengenai:
+Tekanan atmosfer
+
+    (Inggris) Encyclopedia of Earth: Atmospheric pressure
+    (Inggris) page on the 1976 Standard Atmosphere
+    (Inggris) Source code and equations for the 1976 Standard Atmosphere
+    (Inggris) A mathematical model of the 1976 U.S. Standard Atmosphere
+    (Inggris) Online calculator for the 1976 Standard Atmosphere
+    (Inggris) Calculator using multiple units and properties for the 1976 Standard Atmosphere
+    (Inggris) An exercise in air pressure
+
+
+</isi>
+</artikel>
