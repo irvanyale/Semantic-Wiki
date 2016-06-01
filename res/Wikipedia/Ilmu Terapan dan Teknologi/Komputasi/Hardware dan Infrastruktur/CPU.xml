@@ -1,0 +1,117 @@
+<artikel>
+<judul>
+Unit Pemroses Sentral(CPU)
+</judul>
+<isi>
+Unit Pemroses Sentral (UPS) (bahasa Inggris: Central Processing Unit; CPU), merujuk kepada perangkat keras komputer yang memahami dan melaksanakan perintah dan data dari perangkat lunak. Istilah lain, pemroses/prosesor (processor), sering digunakan untuk menyebut CPU. Adapun mikroprosesor adalah CPU yang diproduksi dalam sirkuit terpadu, seringkali dalam sebuah paket sirkuit terpadu-tunggal. Sejak pertengahan tahun 1970-an, mikroprosesor sirkuit terpadu-tunggal ini telah umum digunakan dan menjadi aspek penting dalam penerapan CPU.
+Pin mikroprosesor Intel 80486DX2.
+Komponen CPU
+Diagram blok sederhana sebuah CPU.
+
+Komponen CPU terbagi menjadi beberapa macam, yaitu sebagai berikut.
+
+    Unit kontrol yang mampu mengatur jalannya program. Komponen ini sudah pasti terdapat dalam semua CPU. CPU bertugas mengontrol komputer sehingga terjadi sinkronisasi kerja antarkomponen dalam menjalankan fungsi-fungsi operasinya. termasuk dalam tanggung jawab unit kontrol adalah mengambil intruksi-intruksi dari memori utama dan menentukan jenis instruksi tersebut. Bila ada instruksi untuk perhitungan aritmatika atau perbandingan logika, maka unit kendali akan mengirim instruksi tersebut ke ALU. Hasil dari pengolahan data dibawa oleh unit kendali ke memori utama lagi untuk disimpan, dan pada saatnya akan disajikan ke alat output. Dengan demikian tugas dari unit kendali ini adalah:
+        Mengatur dan mengendalikan alat-alat masukan (input) dan keluaran (output).
+        Mengambil instruksi-instruksi dari memori utama.
+        Mengambil data dari memori utama (jika diperlukan) untuk diproses.
+        Mengirim instruksi ke ALU bila ada perhitungan aritmatika atau perbandingan logika serta mengawasi kerja dari ALU.
+        Menyimpan hasil proses ke memori utama.
+
+    Register merupakan alat penyimpanan kecil yang mempunyai kecepatan akses cukup tinggi, yang digunakan untuk menyimpan data dan/atau instruksi yang sedang diproses. Memori ini bersifat sementara, biasanya digunakan untuk menyimpan data saat di olah ataupun data untuk pengolahan selanjutnya. Secara analogi, register ini dapat diibaratkan sebagai ingatan di otak bila kita melakukan pengolahan data secara manual, sehingga otak dapat diibaratkan sebagai CPU, yang berisi ingatan-ingatan, satuan kendali yang mengatur seluruh kegiatan tubuh dan mempunyai tempat untuk melakukan perhitungan dan perbandingan logika.
+    ALU unit yang bertugas untuk melakukan operasi aritmetika dan operasi logika berdasar instruksi yang ditentukan. ALU sering di sebut mesin bahasa karena bagian ini ALU terdiri dari dua bagian, yaitu unit arithmetika dan unit logika boolean yang masing-masing memiliki spesifikasi tugas tersendiri. Tugas utama dari ALU adalah melakukan semua perhitungan aritmatika yang terjadi sesuai dengan instruksi program. ALU melakukan semua operasi aritmatika dengan dasar penjumlahan sehingga sirkuit elektronik yang digunakan disebut adder.
+
+Tugas lain dari ALU adalah melakukan keputusan dari suatu operasi logika sesuai dengan instruksi program. Operasi logika meliputi perbandingan dua operand dengan menggunakan operator logika tertentu, yaitu sama dengan (=), tidak sama dengan (¹ ), kurang dari (<), kurang atau sama dengan (£ ), lebih besar dari (>), dan lebih besar atau sama dengan (³ ).
+
+    CPU Interconnections adalah sistem koneksi dan bus yang menghubungkan komponen internal CPU, yaitu ALU, unit kontrol dan register-register dan juga dengan bus-bus eksternal CPU yang menghubungkan dengan sistem lainnya, seperti memori utama, piranti masukan /keluaran.
+
+Cara Kerja CPU
+
+Saat data dan/atau instruksi dimasukkan ke processing-devices, pertama sekali diletakkan di MAA (melalui Input-storage); apabila berbentuk instruksi ditampung oleh Control Unit di Program-storage, namun apabila berbentuk data ditampung di Working-storage). Jika register siap untuk menerima pengerjaan eksekusi, maka Control Unit akan mengambil instruksi dari Program-storage untuk ditampungkan ke Instruction Register, sedangkan alamat memori yang berisikan instruksi tersebut ditampung di Program Counter. Sedangkan data diambil oleh Control Unit dari Working-storage untuk ditampung di General-purpose register (dalam hal ini di Operand-register). Jika berdasar instruksi pengerjaan yang dilakukan adalah arithmatika dan logika, maka ALU akan mengambil alih operasi untuk mengerjakan berdasar instruksi yang ditetapkan. Hasilnya ditampung di Akumulator. Apabila hasil pengolahan telah selesai, maka Control Unit akan mengambil hasil pengolahan di Accumulator untuk ditampung kembali ke Working-storage. Jika pengerjaan keseluruhan telah selesai, maka Control Unit akan menjemput hasil pengolahan dari Working-storage untuk ditampung ke Output-storage. Lalu selanjutnya dari Output-storage, hasil pengolahan akan ditampilkan ke output-devices.
+Fungsi CPU
+
+CPU berfungsi seperti kalkulator, hanya saja CPU jauh lebih kuat daya pemrosesannya. Fungsi utama dari CPU adalah melakukan operasi aritmatika dan logika terhadap data yang diambil dari memori atau dari informasi yang dimasukkan melalui beberapa perangkat keras, seperti papan tombol, pemindai, tuas kontrol, maupun tetikus. CPU dikontrol menggunakan sekumpulan instruksi perangkat lunak komputer. Perangkat lunak tersebut dapat dijalankan oleh CPU dengan membacanya dari media penyimpan, seperti cakram keras, disket, cakram padat, maupun pita perekam. Instruksi-instruksi tersebut kemudian disimpan terlebih dahulu pada memori fisik (MAA), yang mana setiap instruksi akan diberi alamat unik yang disebut alamat memori. Selanjutnya, CPU dapat mengakses data-data pada MAA dengan menentukan alamat data yang dikehendaki.
+
+Saat sebuah program dieksekusi, data mengalir dari RAM ke sebuah unit yang disebut dengan bus, yang menghubungkan antara CPU dengan MAA. Data kemudian didekode dengan menggunakan unit proses yang disebut sebagai pendekoder instruksi yang sanggup menerjemahkan instruksi. Data kemudian berjalan ke unit aritmatika dan logika (ALU) yang melakukan kalkulasi dan perbandingan. Data bisa jadi disimpan sementara oleh ALU dalam sebuah lokasi memori yang disebut dengan register supaya dapat diambil kembali dengan cepat untuk diolah. ALU dapat melakukan operasi-operasi tertentu, meliputi penjumlahan, perkalian, pengurangan, pengujian kondisi terhadap data dalam register, hingga mengirimkan hasil pemrosesannya kembali ke memori fisik, media penyimpan, atau register apabila akan mengolah hasil pemrosesan lagi. Selama proses ini terjadi, sebuah unit dalam CPU yang disebut dengan penghitung program akan memantau instruksi yang sukses dijalankan supaya instruksi tersebut dapat dieksekusi dengan urutan yang benar dan sesuai.
+Percabangan instruksi
+
+Pemrosesan instruksi dalam CPU dibagi atas dua tahap, Tahap-I disebut Instruction Fetch, sedangkan Tahap-II disebut Instruction Execute. Tahap-I berisikan pemrosesan CPU di mana Control Unit mengambil data dan/atau instruksi dari main-memory ke register, sedangkan Tahap-II berisikan pemrosesan CPU di mana Control Unit menghantarkan data dan/atau instruksi dari register ke main-memory untuk ditampung di MAA, setelah Instruction Fetch dilakukan. Waktu pada tahap-I ditambah dengan waktu pada tahap-II disebut waktu siklus mesin (machine cycles time).
+
+Penghitung program dalam CPU umumnya bergerak secara berurutan. Walaupun demikian, beberapa instruksi dalam CPU, yang disebut dengan instruksi lompatan, mengizinkan CPU mengakses instruksi yang terletak bukan pada urutannya. Hal ini disebut juga percabangan instruksi (branching instruction). Cabang-cabang instruksi tersebut dapat berupa cabang yang bersifat kondisional (memiliki syarat tertentu) atau non-kondisional. Sebuah cabang yang bersifat non-kondisional selalu berpindah ke sebuah instruksi baru yang berada di luar aliran instruksi, sementara sebuah cabang yang bersifat kondisional akan menguji terlebih dahulu hasil dari operasi sebelumnya untuk melihat apakah cabang instruksi tersebut akan dieksekusi atau tidak. Data yang diuji untuk percabangan instruksi disimpan pada lokasi yang disebut dengan flag.
+Bilangan yang dapat ditangani
+
+Kebanyakan CPU dapat menangani dua jenis bilangan, yaitu fixed-point dan floating-point. Bilangan fixed-point memiliki nilai digit spesifik pada salah satu titik desimalnya. Hal ini memang membatasi jangkauan nilai yang mungkin untuk angka-angka tersebut, tetapi hal ini justru dapat dihitung oleh CPU secara lebih cepat. Sementara itu, bilangan floating-point merupakan bilangan yang diekspresikan dalam notasi ilmiah, di mana sebuah angka direpresentasikan sebagai angka desimal yang dikalikan dengan pangkat 10 (seperti 3,14 x 1057). Notasi ilmiah seperti ini merupakan cara yang singkat untuk mengekspresikan bilangan yang sangat besar atau bilangan yang sangat kecil, dan juga mengizinkan jangkauan nilai yang sangat jauh sebelum dan sesudah titik desimalnya. Bilangan ini umumnya digunakan dalam merepresentasikan grafik dan kerja ilmiah, tetapi proses aritmatika terhadap bilangan floating-point jauh lebih rumit dan dapat diselesaikan dalam waktu yang lebih lama oleh CPU karena mungkin dapat menggunakan beberapa siklus detak CPU. Beberapa komputer menggunakan sebuah prosesor sendiri untuk menghitung bilangan floating-point yang disebut dengan FPU (disebut juga math co-processor) yang dapat bekerja secara paralel dengan CPU untuk mempercepat penghitungan bilangan floating-point. FPU saat ini menjadi standar dalam banyak komputer karena kebanyakan aplikasi saat ini banyak beroperasi menggunakan bilangan floating-point.
+Referensi
+
+    Architecture of the IBM System
+    First Draft of a Report on the EDVAC
+    The MIPS32® Instruction Set
+    Ir. SNMP Simamora, MT,"Course Work: Mikroprosesor dan Antar-muka", Pangalengge Educations, 2006.
+
+Pranala luar
+Perancang CPU
+
+    Advanced Micro Devices (AMD)
+    ARM Ltd.
+    Freescale Semiconductor (Motorola)
+    IBM Microelectronics (IBM)
+    Intel Corporation (Intel)
+    MIPS Technologies (MIPS)
+    Texas Instruments
+
+Informasi lain
+
+    Cara kerja mikroprosesor
+    Desain prosesor
+
+Komponen dasar komputer
+Peranti masukan	
+
+    Papan ketik
+    Peranti penunjuk
+        Tetikus
+        Bantalan sentuh
+        Tablet grafis
+        Tuas kendali
+        Pena cahaya
+        Layar sentuh
+        Bola jejak
+    Mikrofon
+    Kamera web
+    Pemindai citra
+
+Peranti keluaran	
+
+    Monitor komputer
+    Pencetak
+    Pengeras suara
+
+Penyimpan data bisa pindah	
+
+    Penggerak cakram optis
+        CD-RW
+        DVD-RW
+    Cakram flopi
+    Kartu memori
+    USB flash drive
+
+Kasing komputer	
+
+    Unit Pemroses Sentral (CPU)
+        Cakram keras / Solid-state drive
+        Papan induk
+        Pengendali antarmuka jaringan
+        Penyedia daya
+        Memori akses acak (RAM)
+        Kartu suara
+        Kartu grafis
+
+Porta data	
+
+    Ethernet
+        Antarmuka IEEE 1394
+        Porta paralel
+        Porta serial
+        Thunderbolt
+        Universal Serial Bus (USB)
+</isi>
+</artikel>

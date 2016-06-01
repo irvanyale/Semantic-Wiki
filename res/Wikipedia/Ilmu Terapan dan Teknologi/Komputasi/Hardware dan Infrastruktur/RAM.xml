@@ -1,0 +1,113 @@
+<artikel>
+<judul>
+Memori akses acak(RAM)
+</judul>
+<isi>
+Memori akses acak (bahasa Inggris: Random access memory, RAM) adalah sebuah tipe penyimpanan komputer yang isinya dapat diakses dalam waktu yang tetap tidak memperdulikan letak data tersebut dalam memori. Ini berlawanan dengan alat memori urut, seperti tape magnetik, disk dan drum, di mana gerakan mekanikal dari media penyimpanan memaksa komputer untuk mengakses data secara berurutan.
+
+Pertama kali dikenal pada tahun 60'an. Hanya saja saat itu memori semikonduktor belumlah populer karena harganya yang sangat mahal. Saat itu lebih lazim untuk menggunakan memori utama magnetic.
+
+Perusahaan semikonduktor seperti Intel memulai debutnya dengan memproduksi RAM , lebih tepatnya jenis DRAM.
+
+Biasanya RAM dapat ditulis dan dibaca, berlawanan dengan ROM (read-only-memory), RAM biasanya digunakan untuk penyimpanan primer (memori utama) dalam komputer untuk digunakan dan mengubah informasi secara aktif, meskipun beberapa alat menggunakan beberapa jenis RAM untuk menyediakan penyimpanan sekunder jangka-panjang.
+
+Tetapi ada juga yang berpendapat bahwa ROM merupakan jenis lain dari RAM, karena sifatnya yang sebenarnya juga Random Access seperti halnya SRAM ataupun DRAM. Hanya saja memang proses penulisan pada ROM membutuhkan proses khusus yang tidak semudah dan fleksibel seperti halnya pada SRAM atau DRAM. Selain itu beberapa bagian dari space addres RAM ( memori utama ) dari sebuah sistem yang dipetakan kedalam satu atau dua chip ROM.
+
+
+Tipe umum
+Beberapa jenis RAM. Dari atas ke bawah: DIP, SIPP, SIMM 30 pin, SIMM 72 pin, DIMM, DDR DIMM.
+
+    SRAM atau Static RAM
+    NV-RAM atau Non-Volatile RAM
+    DRAM atau Dynamic RAM
+        Fast Page Mode DRAM
+        EDO RAM atau Extended Data Out DRAM
+        XDR DRAM
+        SDRAM atau Synchronous DRAM
+            DDR SDRAM atau Double Data Rate Synchronous DRAM sekarang (2005) mulai digantikan dengan DDR2
+            RDRAM atau Rambus DRAM
+
+Ada 2 tipe RAM yang dikenal secara umum, RAM Statis (SRAM), dan RAM Dinamis (DRAM). Pada SRAM, sedikit data disimpan dengan metode yang dikenal dengan metode memory cell 6 transistor. RAM tipe ini akan lebih mahal untuk di produksi, namun secara umum lebih cepat dan membutuhkan lebih sedikit daya daripada DRAM, dan, di komputer-komputer modern, sering digunakan sebagai memory cache pada CPU. DRAM menyimpan sedikit data menggunakan transistor dan kapasitor (sepasang), yang di mana bersama-sama meliputi sebuah memory cell DRAM. Kapasitornya menahan beban/daya tinggi atau rendah (1,0, masing-masing ), dan transistornya berperan sebagai saklar yang memberikan kontrol sirkuit pada chip untuk membaca status daya dari kapasitor atau menggantinya. Di karena kan jenis memory ini yang relatif lebih murah untuk diproduksi daripada SRAM, maka DRAM adalah wujud dari RAM yang lebih sering digunakan pada komputer-komputer modern.
+
+Baik RAM Statis maupun RAM Dinamis, dianggap rentan, di mana keadaannya akan hilang atau ter-reset saat sistem kehilangan daya. Sebaliknya, ROM (dalam bahasa Inggris : Read-Only Memory) menyimpan data dengan cara mengaktifkan / menonaktifkan transistor terpilih secara permanen, demikian sehingga memory-nya tidak dapat diubah. Variasi ROM yang dapat di-meyimpan data (seperti EEPROM dan Flash Memory) berbagi data baik di ROM maupun RAM, membuat data menjadi bisa diakses tanpa daya dan dapat diperbaharui tanpa butuh alat-alat spesial. ROM semikonduktor ini termasuk USB flash drives, memory card untuk kamera, perangkat portabel, dll. ECC Memory (yang di mana bisa berupa SRAM maupun DRAM) memiliki sirkuit khusus untuk mendeteksi atau mengkoreksi kesalahan yang acak (memory error) di dalam data yang tersimpan, menggunakan menggunakan bit paritas (parity bits) atau kode koreksi error (error correction code).
+
+Secara umum, istilah RAM mengacu kepada perangkat-perangkat solid-state memory (baik SRAM maupun DRAM), dan lebih spesifiknya memory utama pada kebanyakan komputer. Pada optical storage, istilah DVD-RAM adalah sedikit keliru karena, tidak seperti CD-RW atau DVD-RW, DVD-RAM tidak perlu dibersihkan datanya (erased) sebelum penggunaan ulang (reuse). Namun DVD-RAM berperilaku/bekerja seperti sebuah Hard-Disk Drive (HDD) walau lebih lamban.
+Tipe tidak umum
+
+    Dual-ported RAM
+    Video RAM, memori port-ganda dengan satu port akses acak dan satu port akses urut. Dia menjadi populer karena semakin banyak orang membutuhkan memori video. Lihat penjelasan dalam Dynamic RAM.
+    WRAM
+    MRAM
+    FeRAM
+
+Produsen peringkat atas RAM
+
+    Infineon
+    Hynix
+    Samsung
+    Micron
+    Rambus
+    Corsair
+
+Pranala luar
+
+    Definition
+    What is RAM?
+    What kind of RAM do I have? Use the provided images and descriptions to locate the correct computer memory required.
+    "How RAM Works" article by Jeff Tyson and Dave Coustan
+    Memory eXpansion Technology
+    Corsair Memory Basics Presentation (flash required)
+
+Komponen dasar komputer
+Peranti masukan	
+
+    Papan ketik
+    Peranti penunjuk
+        Tetikus
+        Bantalan sentuh
+        Tablet grafis
+        Tuas kendali
+        Pena cahaya
+        Layar sentuh
+        Bola jejak
+    Mikrofon
+    Kamera web
+    Pemindai citra
+
+Peranti keluaran	
+
+    Monitor komputer
+    Pencetak
+    Pengeras suara
+
+Penyimpan data bisa pindah	
+
+    Penggerak cakram optis
+        CD-RW
+        DVD-RW
+    Cakram flopi
+    Kartu memori
+    USB flash drive
+
+Kasing komputer	
+
+    Unit Pemroses Sentral (CPU)
+        Cakram keras / Solid-state drive
+        Papan induk
+        Pengendali antarmuka jaringan
+        Penyedia daya
+        Memori akses acak (RAM)
+        Kartu suara
+        Kartu grafis
+
+Porta data	
+
+    Ethernet
+        Antarmuka IEEE 1394
+        Porta paralel
+        Porta serial
+        Thunderbolt
+        Universal Serial Bus (USB)
+
+</isi>
+</artikel>

@@ -1,0 +1,1791 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY wiki "http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/irvan/ontologies/2016/4/untitled-ontology-54#"
+     xml:base="http://www.semanticweb.org/irvan/ontologies/2016/4/untitled-ontology-54"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:wiki="http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/irvan/ontologies/2016/4/wiki"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#hasMember -->
+
+    <owl:ObjectProperty rdf:about="&wiki;hasMember">
+        <owl:inverseOf rdf:resource="&wiki;isMemberOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#isMemberOf -->
+
+    <owl:ObjectProperty rdf:about="&wiki;isMemberOf"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Isi -->
+
+    <owl:DatatypeProperty rdf:about="&wiki;Isi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Judul -->
+
+    <owl:DatatypeProperty rdf:about="&wiki;Judul"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Nama -->
+
+    <owl:DatatypeProperty rdf:about="&wiki;Nama"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Acara_Olah_Raga -->
+
+    <owl:Class rdf:about="&wiki;Acara_Olah_Raga">
+        <rdfs:subClassOf rdf:resource="&wiki;Rekreasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Afrika -->
+
+    <owl:Class rdf:about="&wiki;Afrika">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Agama -->
+
+    <owl:Class rdf:about="&wiki;Agama">
+        <rdfs:subClassOf rdf:resource="&wiki;Filsafat_dan_Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ahli_Kimia -->
+
+    <owl:Class rdf:about="&wiki;Ahli_Kimia">
+        <rdfs:subClassOf rdf:resource="&wiki;Kimia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Aktor,_Model_dan_Selebriti -->
+
+    <owl:Class rdf:about="&wiki;Aktor,_Model_dan_Selebriti">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Amerika_Selatan -->
+
+    <owl:Class rdf:about="&wiki;Amerika_Selatan">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Amerika_Utara -->
+
+    <owl:Class rdf:about="&wiki;Amerika_Utara">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Aneka_Hewan -->
+
+    <owl:Class rdf:about="&wiki;Aneka_Hewan">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Antartika -->
+
+    <owl:Class rdf:about="&wiki;Antartika">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Arkeologi -->
+
+    <owl:Class rdf:about="&wiki;Arkeologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Sejarah_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Arsitektur -->
+
+    <owl:Class rdf:about="&wiki;Arsitektur">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni_dan_Arsitektur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Artis -->
+
+    <owl:Class rdf:about="&wiki;Artis">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni_dan_Arsitektur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Artis_dan_Komposer,_kecuali_Klasik -->
+
+    <owl:Class rdf:about="&wiki;Artis_dan_Komposer,_kecuali_Klasik">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Asia -->
+
+    <owl:Class rdf:about="&wiki;Asia">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Astronom_dan_Fisikawan -->
+
+    <owl:Class rdf:about="&wiki;Astronom_dan_Fisikawan">
+        <rdfs:subClassOf rdf:resource="&wiki;Fisika_dan_Astronomi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Astronomi -->
+
+    <owl:Class rdf:about="&wiki;Astronomi">
+        <rdfs:subClassOf rdf:resource="&wiki;Fisika_dan_Astronomi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Badai -->
+
+    <owl:Class rdf:about="&wiki;Badai">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Atmosfer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Badan_Air -->
+
+    <owl:Class rdf:about="&wiki;Badan_Air">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bahasa -->
+
+    <owl:Class rdf:about="&wiki;Bahasa">
+        <rdfs:subClassOf rdf:resource="&wiki;Bahasa_dan_Linguistik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bahasa_dan_Linguistik -->
+
+    <owl:Class rdf:about="&wiki;Bahasa_dan_Linguistik">
+        <rdfs:subClassOf rdf:resource="&wiki;Bahasa_dan_Sastra"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bahasa_dan_Sastra -->
+
+    <owl:Class rdf:about="&wiki;Bahasa_dan_Sastra"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bangsa,_Orang,_Daerah_atau_Negara -->
+
+    <owl:Class rdf:about="&wiki;Bangsa,_Orang,_Daerah_atau_Negara">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bendera -->
+
+    <owl:Class rdf:about="&wiki;Bendera">
+        <rdfs:subClassOf rdf:resource="&wiki;Politik_dan_Pemerintahan"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bermacam-macam -->
+
+    <owl:Class rdf:about="&wiki;Bermacam-macam">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Biografi_Orang-orang_Militer -->
+
+    <owl:Class rdf:about="&wiki;Biografi_Orang-orang_Militer">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Biologi -->
+
+    <owl:Class rdf:about="&wiki;Biologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Biologi_dan_Ilmuwan_Medis -->
+
+    <owl:Class rdf:about="&wiki;Biologi_dan_Ilmuwan_Medis">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Biologi_dan_Kedokteran -->
+
+    <owl:Class rdf:about="&wiki;Biologi_dan_Kedokteran">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Alam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bisnis -->
+
+    <owl:Class rdf:about="&wiki;Bisnis">
+        <rdfs:subClassOf rdf:resource="&wiki;Ekonomi_dan_Bisnis"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Dekorasi_Militer -->
+
+    <owl:Class rdf:about="&wiki;Dekorasi_Militer">
+        <rdfs:subClassOf rdf:resource="&wiki;Penghargaan_dan_Lambang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Dewa -->
+
+    <owl:Class rdf:about="&wiki;Dewa">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Dinosaurus -->
+
+    <owl:Class rdf:about="&wiki;Dinosaurus">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ekonomi -->
+
+    <owl:Class rdf:about="&wiki;Ekonomi">
+        <rdfs:subClassOf rdf:resource="&wiki;Ekonomi_dan_Bisnis"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ekonomi_dan_Bisnis -->
+
+    <owl:Class rdf:about="&wiki;Ekonomi_dan_Bisnis">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Engineering_and_Inventors -->
+
+    <owl:Class rdf:about="&wiki;Engineering_and_Inventors">
+        <rdfs:subClassOf rdf:resource="&wiki;Teknik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Eropa -->
+
+    <owl:Class rdf:about="&wiki;Eropa">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Evolusi_dan_Reproduksi -->
+
+    <owl:Class rdf:about="&wiki;Evolusi_dan_Reproduksi">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Farmasi_dan_Terkait -->
+
+    <owl:Class rdf:about="&wiki;Farmasi_dan_Terkait">
+        <rdfs:subClassOf rdf:resource="&wiki;Kimia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Film -->
+
+    <owl:Class rdf:about="&wiki;Film">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Filsafat -->
+
+    <owl:Class rdf:about="&wiki;Filsafat">
+        <rdfs:subClassOf rdf:resource="&wiki;Filsafat_dan_Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Filsafat_dan_Agama -->
+
+    <owl:Class rdf:about="&wiki;Filsafat_dan_Agama"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Filsuf -->
+
+    <owl:Class rdf:about="&wiki;Filsuf">
+        <rdfs:subClassOf rdf:resource="&wiki;Filsafat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Fisika -->
+
+    <owl:Class rdf:about="&wiki;Fisika">
+        <rdfs:subClassOf rdf:resource="&wiki;Fisika_dan_Astronomi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Fisika_dan_Astronomi -->
+
+    <owl:Class rdf:about="&wiki;Fisika_dan_Astronomi">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Alam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Game -->
+
+    <owl:Class rdf:about="&wiki;Game">
+        <rdfs:subClassOf rdf:resource="&wiki;Rekreasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Genre,_Gaya_dan_Era -->
+
+    <owl:Class rdf:about="&wiki;Genre,_Gaya_dan_Era">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Geografi -->
+
+    <owl:Class rdf:about="&wiki;Geografi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Geografi_dan_Penjelajah -->
+
+    <owl:Class rdf:about="&wiki;Geografi_dan_Penjelajah">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Geografi_dan_Tempat-tempat -->
+
+    <owl:Class rdf:about="&wiki;Geografi_dan_Tempat-tempat">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Geologi,_Geofisika_dan_Mineralogi -->
+
+    <owl:Class rdf:about="&wiki;Geologi,_Geofisika_dan_Mineralogi">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Geologi_dan_Geofisika -->
+
+    <owl:Class rdf:about="&wiki;Geologi_dan_Geofisika">
+        <rdfs:subClassOf rdf:resource="&wiki;Geologi,_Geofisika_dan_Mineralogi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Gerakan_Keagamaan,_Tradisi,_dan_Organisasi -->
+
+    <owl:Class rdf:about="&wiki;Gerakan_Keagamaan,_Tradisi,_dan_Organisasi">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Hardware_dan_Infrastruktur -->
+
+    <owl:Class rdf:about="&wiki;Hardware_dan_Infrastruktur">
+        <rdfs:subClassOf rdf:resource="&wiki;Komputasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Heraldik -->
+
+    <owl:Class rdf:about="&wiki;Heraldik">
+        <rdfs:subClassOf rdf:resource="&wiki;Penghargaan_dan_Lambang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Hukum -->
+
+    <owl:Class rdf:about="&wiki;Hukum">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Huruf_dan_Transliterasi -->
+
+    <owl:Class rdf:about="&wiki;Huruf_dan_Transliterasi">
+        <rdfs:subClassOf rdf:resource="&wiki;Bahasa_dan_Linguistik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ilmu_Alam -->
+
+    <owl:Class rdf:about="&wiki;Ilmu_Alam"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ilmu_Alam_-_Umum -->
+
+    <owl:Class rdf:about="&wiki;Ilmu_Alam_-_Umum">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Alam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ilmu_Atmosfer -->
+
+    <owl:Class rdf:about="&wiki;Ilmu_Atmosfer">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Alam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ilmu_Material -->
+
+    <owl:Class rdf:about="&wiki;Ilmu_Material">
+        <rdfs:subClassOf rdf:resource="&wiki;Kimia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Ilmu_Terapan_dan_Teknologi -->
+
+    <owl:Class rdf:about="&wiki;Ilmu_Terapan_dan_Teknologi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Instrumen -->
+
+    <owl:Class rdf:about="&wiki;Instrumen">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Jembatan_dan_Terowongan -->
+
+    <owl:Class rdf:about="&wiki;Jembatan_dan_Terowongan">
+        <rdfs:subClassOf rdf:resource="&wiki;Transportasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kamp_Militer,_Pengadilan_dan_Fasilitas -->
+
+    <owl:Class rdf:about="&wiki;Kamp_Militer,_Pengadilan_dan_Fasilitas">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kartun -->
+
+    <owl:Class rdf:about="&wiki;Kartun">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Karya_Tertentu_-_Beragam -->
+
+    <owl:Class rdf:about="&wiki;Karya_Tertentu_-_Beragam">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Karya_Tertentu_-_Novel -->
+
+    <owl:Class rdf:about="&wiki;Karya_Tertentu_-_Novel">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kehidupan_Sehari-hari -->
+
+    <owl:Class rdf:about="&wiki;Kehidupan_Sehari-hari"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kelas_Sastra -->
+
+    <owl:Class rdf:about="&wiki;Kelas_Sastra">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kesehatan_dan_Obat-obatan -->
+
+    <owl:Class rdf:about="&wiki;Kesehatan_dan_Obat-obatan">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kimia -->
+
+    <owl:Class rdf:about="&wiki;Kimia">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Alam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kimia_Tidak_Elemen_atau_Pharma -->
+
+    <owl:Class rdf:about="&wiki;Kimia_Tidak_Elemen_atau_Pharma">
+        <rdfs:subClassOf rdf:resource="&wiki;Kimia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Klimatologi -->
+
+    <owl:Class rdf:about="&wiki;Klimatologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Atmosfer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Komputasi -->
+
+    <owl:Class rdf:about="&wiki;Komputasi">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Terapan_dan_Teknologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Komputer_dan_Videogame -->
+
+    <owl:Class rdf:about="&wiki;Komputer_dan_Videogame">
+        <rdfs:subClassOf rdf:resource="&wiki;Rekreasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Konflik,_Pertempuran_dan_Latihan_Militer,_Abad_20-21 -->
+
+    <owl:Class rdf:about="&wiki;Konflik,_Pertempuran_dan_Latihan_Militer,_Abad_20-21">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Konflik,_Pertempuran_dan_Latihan_Militer,_Perang_Dunia_ll -->
+
+    <owl:Class rdf:about="&wiki;Konflik,_Pertempuran_dan_Latihan_Militer,_Perang_Dunia_ll">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Konflik,_Pertempuran_dan_Latihan_Militer,_Sebelum_Abad_ke-20 -->
+
+    <owl:Class rdf:about="&wiki;Konflik,_Pertempuran_dan_Latihan_Militer,_Sebelum_Abad_ke-20">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Kriptografi -->
+
+    <owl:Class rdf:about="&wiki;Kriptografi">
+        <rdfs:subClassOf rdf:resource="&wiki;Komputasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Lain-lainya -->
+
+    <owl:Class rdf:about="&wiki;Lain-lainya">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Lembaga_Pendidikan -->
+
+    <owl:Class rdf:about="&wiki;Lembaga_Pendidikan">
+        <rdfs:subClassOf rdf:resource="&wiki;Pendidikan"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Linguistik -->
+
+    <owl:Class rdf:about="&wiki;Linguistik">
+        <rdfs:subClassOf rdf:resource="&wiki;Bahasa_dan_Linguistik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Literatur -->
+
+    <owl:Class rdf:about="&wiki;Literatur">
+        <rdfs:subClassOf rdf:resource="&wiki;Bahasa_dan_Sastra"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Macam-macam_Hukum -->
+
+    <owl:Class rdf:about="&wiki;Macam-macam_Hukum">
+        <rdfs:subClassOf rdf:resource="&wiki;Politik_dan_Pemerintahan"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Makanan_dan_Minuman -->
+
+    <owl:Class rdf:about="&wiki;Makanan_dan_Minuman">
+        <rdfs:subClassOf rdf:resource="&wiki;Kehidupan_Sehari-hari"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Mamalia-Umum -->
+
+    <owl:Class rdf:about="&wiki;Mamalia-Umum">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Masyarakat_dan_Ilmu_Sosial -->
+
+    <owl:Class rdf:about="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Masyarakat_dan_Sosiologi -->
+
+    <owl:Class rdf:about="&wiki;Masyarakat_dan_Sosiologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Mata_Uang -->
+
+    <owl:Class rdf:about="&wiki;Mata_Uang">
+        <rdfs:subClassOf rdf:resource="&wiki;Ekonomi_dan_Bisnis"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Matematika -->
+
+    <owl:Class rdf:about="&wiki;Matematika"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Matematikawan -->
+
+    <owl:Class rdf:about="&wiki;Matematikawan">
+        <rdfs:subClassOf rdf:resource="&wiki;Sub1_Matematika"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Media_Massa -->
+
+    <owl:Class rdf:about="&wiki;Media_Massa">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Sosiologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Meteorologi -->
+
+    <owl:Class rdf:about="&wiki;Meteorologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Atmosfer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Militer_dan_Perang -->
+
+    <owl:Class rdf:about="&wiki;Militer_dan_Perang">
+        <rdfs:subClassOf rdf:resource="&wiki;Sejarah_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Mineralogi -->
+
+    <owl:Class rdf:about="&wiki;Mineralogi">
+        <rdfs:subClassOf rdf:resource="&wiki;Geologi,_Geofisika_dan_Mineralogi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Minum -->
+
+    <owl:Class rdf:about="&wiki;Minum">
+        <rdfs:subClassOf rdf:resource="&wiki;Makanan_dan_Minuman"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Mitos -->
+
+    <owl:Class rdf:about="&wiki;Mitos">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Museum_dan_Galeri -->
+
+    <owl:Class rdf:about="&wiki;Museum_dan_Galeri">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni_dan_Arsitektur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Musik -->
+
+    <owl:Class rdf:about="&wiki;Musik">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Musik_Klasik,_termasuk_Artis_dan_Komposer -->
+
+    <owl:Class rdf:about="&wiki;Musik_Klasik,_termasuk_Artis_dan_Komposer">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Musik_untuk_Festival -->
+
+    <owl:Class rdf:about="&wiki;Musik_untuk_Festival">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Oceania -->
+
+    <owl:Class rdf:about="&wiki;Oceania">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Olahraga -->
+
+    <owl:Class rdf:about="&wiki;Olahraga">
+        <rdfs:subClassOf rdf:resource="&wiki;Rekreasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Olahraga_Berkelompok -->
+
+    <owl:Class rdf:about="&wiki;Olahraga_Berkelompok">
+        <rdfs:subClassOf rdf:resource="&wiki;Rekreasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Olahraga_dan_Permainan_Orang -->
+
+    <owl:Class rdf:about="&wiki;Olahraga_dan_Permainan_Orang">
+        <rdfs:subClassOf rdf:resource="&wiki;Rekreasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Opera -->
+
+    <owl:Class rdf:about="&wiki;Opera">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Orang -->
+
+    <owl:Class rdf:about="&wiki;Orang">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Sosiologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Orang_dalam_Komputasi -->
+
+    <owl:Class rdf:about="&wiki;Orang_dalam_Komputasi">
+        <rdfs:subClassOf rdf:resource="&wiki;Komputasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Orang_yang_Signifikan_secara_Politik -->
+
+    <owl:Class rdf:about="&wiki;Orang_yang_Signifikan_secara_Politik">
+        <rdfs:subClassOf rdf:resource="&wiki;Politik_dan_Pemerintahan"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Organisasi_Masyarakat -->
+
+    <owl:Class rdf:about="&wiki;Organisasi_Masyarakat">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Sosiologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Organism-Unclassified -->
+
+    <owl:Class rdf:about="&wiki;Organism-Unclassified">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Pangan_dan_Pertanian -->
+
+    <owl:Class rdf:about="&wiki;Pangan_dan_Pertanian">
+        <rdfs:subClassOf rdf:resource="&wiki;Makanan_dan_Minuman"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Paus -->
+
+    <owl:Class rdf:about="&wiki;Paus">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Pemikiran_Filosofis_dan_Gerakan -->
+
+    <owl:Class rdf:about="&wiki;Pemikiran_Filosofis_dan_Gerakan">
+        <rdfs:subClassOf rdf:resource="&wiki;Filsafat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Pemrograman -->
+
+    <owl:Class rdf:about="&wiki;Pemrograman">
+        <rdfs:subClassOf rdf:resource="&wiki;Komputasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Pendidikan -->
+
+    <owl:Class rdf:about="&wiki;Pendidikan">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Penghargaan_Sipil -->
+
+    <owl:Class rdf:about="&wiki;Penghargaan_Sipil">
+        <rdfs:subClassOf rdf:resource="&wiki;Penghargaan_dan_Lambang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Penghargaan_dan_Lambang -->
+
+    <owl:Class rdf:about="&wiki;Penghargaan_dan_Lambang">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Penulis_dan_Kritikus_-_Americas -->
+
+    <owl:Class rdf:about="&wiki;Penulis_dan_Kritikus_-_Americas">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Penulis_dan_Kritikus_-_Benua_Lainnya -->
+
+    <owl:Class rdf:about="&wiki;Penulis_dan_Kritikus_-_Benua_Lainnya">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Penulis_dan_Kritikus_-_Eropa -->
+
+    <owl:Class rdf:about="&wiki;Penulis_dan_Kritikus_-_Eropa">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Perangkat_Lunak -->
+
+    <owl:Class rdf:about="&wiki;Perangkat_Lunak">
+        <rdfs:subClassOf rdf:resource="&wiki;Komputasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Perekaman_dan_Komposisi -->
+
+    <owl:Class rdf:about="&wiki;Perekaman_dan_Komposisi">
+        <rdfs:subClassOf rdf:resource="&wiki;Musik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Perselisihan_Agama -->
+
+    <owl:Class rdf:about="&wiki;Perselisihan_Agama">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Planet -->
+
+    <owl:Class rdf:about="&wiki;Planet">
+        <rdfs:subClassOf rdf:resource="&wiki;Fisika_dan_Astronomi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Politik_dan_Pemerintahan -->
+
+    <owl:Class rdf:about="&wiki;Politik_dan_Pemerintahan">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Produser,_Sutradara_dan_Tokoh-tokoh_Media -->
+
+    <owl:Class rdf:about="&wiki;Produser,_Sutradara_dan_Tokoh-tokoh_Media">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Program_Televisi -->
+
+    <owl:Class rdf:about="&wiki;Program_Televisi">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Psikolog -->
+
+    <owl:Class rdf:about="&wiki;Psikolog">
+        <rdfs:subClassOf rdf:resource="&wiki;Psikologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Psikologi -->
+
+    <owl:Class rdf:about="&wiki;Psikologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Ilmu_Sosial"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Puisi -->
+
+    <owl:Class rdf:about="&wiki;Puisi">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Rekreasi -->
+
+    <owl:Class rdf:about="&wiki;Rekreasi">
+        <rdfs:subClassOf rdf:resource="&wiki;Kehidupan_Sehari-hari"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sejarah -->
+
+    <owl:Class rdf:about="&wiki;Sejarah">
+        <rdfs:subClassOf rdf:resource="&wiki;Sejarah_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sejarah_Militer -->
+
+    <owl:Class rdf:about="&wiki;Sejarah_Militer">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sejarah_Umum -->
+
+    <owl:Class rdf:about="&wiki;Sejarah_Umum">
+        <rdfs:subClassOf rdf:resource="&wiki;Sejarah"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sejarah_dan_Perang -->
+
+    <owl:Class rdf:about="&wiki;Sejarah_dan_Perang"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sejarawan,_Penulis_Sejarah_dan_Buku-buku_Sejarah -->
+
+    <owl:Class rdf:about="&wiki;Sejarawan,_Penulis_Sejarah_dan_Buku-buku_Sejarah">
+        <rdfs:subClassOf rdf:resource="&wiki;Sejarah"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Seluruh_Dunia -->
+
+    <owl:Class rdf:about="&wiki;Seluruh_Dunia">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Seni -->
+
+    <owl:Class rdf:about="&wiki;Seni"/>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Seni_dan_Arsitektur -->
+
+    <owl:Class rdf:about="&wiki;Seni_dan_Arsitektur">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Senjata_dan_Peralatan_Militer -->
+
+    <owl:Class rdf:about="&wiki;Senjata_dan_Peralatan_Militer">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Simbol -->
+
+    <owl:Class rdf:about="&wiki;Simbol">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Situs_dan_Internet -->
+
+    <owl:Class rdf:about="&wiki;Situs_dan_Internet">
+        <rdfs:subClassOf rdf:resource="&wiki;Komputasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sosiolog_dan_Antropolog -->
+
+    <owl:Class rdf:about="&wiki;Sosiolog_dan_Antropolog">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Sosiologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sosiologi_dan_Fenomena_Sosial -->
+
+    <owl:Class rdf:about="&wiki;Sosiologi_dan_Fenomena_Sosial">
+        <rdfs:subClassOf rdf:resource="&wiki;Masyarakat_dan_Sosiologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub1_Kehidupan_Sehari-hari -->
+
+    <owl:Class rdf:about="&wiki;Sub1_Kehidupan_Sehari-hari">
+        <rdfs:subClassOf rdf:resource="&wiki;Kehidupan_Sehari-hari"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub1_Matematika -->
+
+    <owl:Class rdf:about="&wiki;Sub1_Matematika">
+        <rdfs:subClassOf rdf:resource="&wiki;Matematika"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Arkeologi -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Arkeologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Arkeologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Geografi -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Geografi">
+        <rdfs:subClassOf rdf:resource="&wiki;Geografi_dan_Tempat-tempat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Hukum -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Hukum">
+        <rdfs:subClassOf rdf:resource="&wiki;Hukum"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Kimia -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Kimia">
+        <rdfs:subClassOf rdf:resource="&wiki;Kimia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Literatur -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Literatur">
+        <rdfs:subClassOf rdf:resource="&wiki;Literatur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Matematika -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Matematika">
+        <rdfs:subClassOf rdf:resource="&wiki;Sub1_Matematika"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Pendidikan -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Pendidikan">
+        <rdfs:subClassOf rdf:resource="&wiki;Pendidikan"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Politik_dan_Pemerintahan -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Politik_dan_Pemerintahan">
+        <rdfs:subClassOf rdf:resource="&wiki;Politik_dan_Pemerintahan"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Psikologi -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Psikologi">
+        <rdfs:subClassOf rdf:resource="&wiki;Psikologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Seni -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Seni">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni_dan_Arsitektur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Teknik -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Teknik">
+        <rdfs:subClassOf rdf:resource="&wiki;Teknik"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Umum -->
+
+    <owl:Class rdf:about="&wiki;Sub2_Umum">
+        <rdfs:subClassOf rdf:resource="&wiki;Seni_dan_Arsitektur"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Taktik -->
+
+    <owl:Class rdf:about="&wiki;Taktik">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Tanaman -->
+
+    <owl:Class rdf:about="&wiki;Tanaman">
+        <rdfs:subClassOf rdf:resource="&wiki;Biologi_dan_Kedokteran"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Teater -->
+
+    <owl:Class rdf:about="&wiki;Teater">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Teater,_Film_dan_TV -->
+
+    <owl:Class rdf:about="&wiki;Teater,_Film_dan_TV">
+        <rdfs:subClassOf rdf:resource="&wiki;Bahasa_dan_Sastra"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Teknik -->
+
+    <owl:Class rdf:about="&wiki;Teknik">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Terapan_dan_Teknologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Teks-teks_Agama -->
+
+    <owl:Class rdf:about="&wiki;Teks-teks_Agama">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Televisi -->
+
+    <owl:Class rdf:about="&wiki;Televisi">
+        <rdfs:subClassOf rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Tempat_Ibadah -->
+
+    <owl:Class rdf:about="&wiki;Tempat_Ibadah">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Tentara_dan_Unit_Militer -->
+
+    <owl:Class rdf:about="&wiki;Tentara_dan_Unit_Militer">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Tokoh-tokoh_Sejarah -->
+
+    <owl:Class rdf:about="&wiki;Tokoh-tokoh_Sejarah">
+        <rdfs:subClassOf rdf:resource="&wiki;Sejarah"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Tokoh_Agama_dan_Pemimpin -->
+
+    <owl:Class rdf:about="&wiki;Tokoh_Agama_dan_Pemimpin">
+        <rdfs:subClassOf rdf:resource="&wiki;Agama"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Topik_Umum -->
+
+    <owl:Class rdf:about="&wiki;Topik_Umum">
+        <rdfs:subClassOf rdf:resource="&wiki;Sub1_Kehidupan_Sehari-hari"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transportasi -->
+
+    <owl:Class rdf:about="&wiki;Transportasi">
+        <rdfs:subClassOf rdf:resource="&wiki;Ilmu_Terapan_dan_Teknologi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transportasi_Darat -->
+
+    <owl:Class rdf:about="&wiki;Transportasi_Darat">
+        <rdfs:subClassOf rdf:resource="&wiki;Transportasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transportasi_Kereta_Api -->
+
+    <owl:Class rdf:about="&wiki;Transportasi_Kereta_Api">
+        <rdfs:subClassOf rdf:resource="&wiki;Transportasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transportasi_Laut -->
+
+    <owl:Class rdf:about="&wiki;Transportasi_Laut">
+        <rdfs:subClassOf rdf:resource="&wiki;Transportasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transportasi_Luar_Angkasa -->
+
+    <owl:Class rdf:about="&wiki;Transportasi_Luar_Angkasa">
+        <rdfs:subClassOf rdf:resource="&wiki;Transportasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transportasi_Udara -->
+
+    <owl:Class rdf:about="&wiki;Transportasi_Udara">
+        <rdfs:subClassOf rdf:resource="&wiki;Transportasi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Umum -->
+
+    <owl:Class rdf:about="&wiki;Umum">
+        <rdfs:subClassOf rdf:resource="&wiki;Militer_dan_Perang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Unsur_Kimia -->
+
+    <owl:Class rdf:about="&wiki;Unsur_Kimia">
+        <rdfs:subClassOf rdf:resource="&wiki;Kimia"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Aksara_Bali -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Aksara_Bali">
+        <rdf:type rdf:resource="&wiki;Huruf_dan_Transliterasi"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Aksara Bali</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Huruf dan Transliterasi/Aksara Bali.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Huruf_dan_Transliterasi"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bahasa_Aceh -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Bahasa_Aceh">
+        <rdf:type rdf:resource="&wiki;Bahasa"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Bahasa Aceh</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Bahasa/Bahasa Aceh.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Bahasa"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bahasa_Indonesia -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Bahasa_Indonesia">
+        <rdf:type rdf:resource="&wiki;Bahasa"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Bahasa Indonesia</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Bahasa/Bahasa Indonesia.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Bahasa"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Bahasa_Jawa -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Bahasa_Jawa">
+        <rdf:type rdf:resource="&wiki;Bahasa"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Bahasa Jawa</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Bahasa/Bahasa Jawa.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Bahasa"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Braille -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Braille">
+        <rdf:type rdf:resource="&wiki;Huruf_dan_Transliterasi"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Braille</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Huruf dan Transliterasi/Braille.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Huruf_dan_Transliterasi"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Class_Bahasa_dan_Sastra -->
+
+    <owl:Thing rdf:about="&wiki;Class_Bahasa_dan_Sastra">
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Bahasa dan Sastra</wiki:Nama>
+        <wiki:hasMember rdf:resource="&wiki;Sub1_Bahasa_dan_Linguistik"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub1_Literatur"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub1_Teater_Film_dan_TV"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Film -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Film">
+        <rdf:type rdf:resource="&wiki;Film"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Film</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Teater, Film dan TV/Film/Film.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Film"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Film_Komedi -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Film_Komedi">
+        <rdf:type rdf:resource="&wiki;Film"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Film Komedi</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Teater, Film dan TV/Film/Film Komedi.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Film"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Film_Laga -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Film_Laga">
+        <rdf:type rdf:resource="&wiki;Film"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Film Laga</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Teater, Film dan TV/Film/Film Laga.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Film"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Linguistik_Historis -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Linguistik_Historis">
+        <rdf:type rdf:resource="&wiki;Linguistik"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Linguistik Historis</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Linguistik/Linguistik Historis.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Linguistik"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Linguistik_Komputasi -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Linguistik_Komputasi">
+        <rdf:type rdf:resource="&wiki;Linguistik"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Linguistik Komputasi</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Linguistik/Linguistik Komputasi.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Linguistik"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Linguistik_Korpus -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Linguistik_Korpus">
+        <rdf:type rdf:resource="&wiki;Linguistik"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Linguistik Korpus</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Linguistik/Linguistik Korpus.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Linguistik"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Opera -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Opera">
+        <rdf:type rdf:resource="&wiki;Opera"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Opera</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Teater, Film dan TV/Opera/Opera.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Opera"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Opera_Beijing -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Opera_Beijing">
+        <rdf:type rdf:resource="&wiki;Opera"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Opera Beijing</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Teater, Film dan TV/Opera/Opera Beijing.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Opera"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sandiwara -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sandiwara">
+        <rdf:type rdf:resource="&wiki;Opera"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Sandiwara</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Teater, Film dan TV/Opera/Sandiwara.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Opera"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub1_Bahasa_dan_Linguistik -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub1_Bahasa_dan_Linguistik">
+        <rdf:type rdf:resource="&wiki;Bahasa_dan_Sastra"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Bahasa dan Linguistik</wiki:Nama>
+        <wiki:isMemberOf rdf:resource="&wiki;Class_Bahasa_dan_Sastra"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub2_Bahasa"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub2_Huruf_dan_Transliterasi"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub2_Linguistik"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub1_Literatur -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub1_Literatur">
+        <rdf:type rdf:resource="&wiki;Bahasa_dan_Sastra"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Literatur</wiki:Nama>
+        <wiki:isMemberOf rdf:resource="&wiki;Class_Bahasa_dan_Sastra"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub1_Teater_Film_dan_TV -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub1_Teater_Film_dan_TV">
+        <rdf:type rdf:resource="&wiki;Bahasa_dan_Sastra"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Teater, Film dan TV</wiki:Nama>
+        <wiki:isMemberOf rdf:resource="&wiki;Class_Bahasa_dan_Sastra"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub2_Film"/>
+        <wiki:hasMember rdf:resource="&wiki;Sub2_Opera"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Bahasa -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub2_Bahasa">
+        <rdf:type rdf:resource="&wiki;Bahasa_dan_Linguistik"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Bahasa</wiki:Nama>
+        <wiki:hasMember rdf:resource="&wiki;Bahasa_Aceh"/>
+        <wiki:hasMember rdf:resource="&wiki;Bahasa_Indonesia"/>
+        <wiki:hasMember rdf:resource="&wiki;Bahasa_Jawa"/>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub1_Bahasa_dan_Linguistik"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Film -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub2_Film">
+        <rdf:type rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Film</wiki:Nama>
+        <wiki:hasMember rdf:resource="&wiki;Film"/>
+        <wiki:hasMember rdf:resource="&wiki;Film_Komedi"/>
+        <wiki:hasMember rdf:resource="&wiki;Film_Laga"/>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub1_Teater_Film_dan_TV"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Huruf_dan_Transliterasi -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub2_Huruf_dan_Transliterasi">
+        <rdf:type rdf:resource="&wiki;Bahasa_dan_Linguistik"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Huruf dan Transliterasi</wiki:Nama>
+        <wiki:hasMember rdf:resource="&wiki;Aksara_Bali"/>
+        <wiki:hasMember rdf:resource="&wiki;Braille"/>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub1_Bahasa_dan_Linguistik"/>
+        <wiki:hasMember rdf:resource="&wiki;Transliterasi"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Linguistik -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub2_Linguistik">
+        <rdf:type rdf:resource="&wiki;Bahasa_dan_Linguistik"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Linguistik</wiki:Nama>
+        <wiki:hasMember rdf:resource="&wiki;Linguistik_Historis"/>
+        <wiki:hasMember rdf:resource="&wiki;Linguistik_Komputasi"/>
+        <wiki:hasMember rdf:resource="&wiki;Linguistik_Korpus"/>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub1_Bahasa_dan_Linguistik"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Sub2_Opera -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Sub2_Opera">
+        <rdf:type rdf:resource="&wiki;Teater,_Film_dan_TV"/>
+        <wiki:Nama rdf:datatype="&xsd;string">Opera</wiki:Nama>
+        <wiki:hasMember rdf:resource="&wiki;Opera"/>
+        <wiki:hasMember rdf:resource="&wiki;Opera_Beijing"/>
+        <wiki:hasMember rdf:resource="&wiki;Sandiwara"/>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub1_Teater_Film_dan_TV"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/irvan/ontologies/2016/4/wiki#Transliterasi -->
+
+    <owl:NamedIndividual rdf:about="&wiki;Transliterasi">
+        <rdf:type rdf:resource="&wiki;Huruf_dan_Transliterasi"/>
+        <wiki:Judul rdf:datatype="&xsd;string">Transliterasi</wiki:Judul>
+        <wiki:Isi rdf:datatype="&xsd;string">res/Wikipedia/Bahasa dan Sastra/Bahasa dan Linguistik/Huruf dan Transliterasi/Transliterasi.xml</wiki:Isi>
+        <wiki:isMemberOf rdf:resource="&wiki;Sub2_Huruf_dan_Transliterasi"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

@@ -1,4 +1,7 @@
+<?php session_start();  
+$_SESSION['wiki'] = 'home'?>
 <!doctype html>
+
 <!--
   Material Design Lite
   Copyright 2015 Google Inc. All rights reserved.
@@ -29,19 +32,28 @@
 
     <link rel="shortcut icon" href="images/favicon.png">
 
-    <link rel="stylesheet" href="font_google_1.css">
-    <link rel="stylesheet" href="font_google_2.css">
-    <link rel="stylesheet" href="material.cyan-light_blue.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/font_google_1.css">
+    <link rel="stylesheet" href="css/font_google_2.css">
+    <link rel="stylesheet" href="css/material.cyan-light_blue.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
+    <script src="js/material.min.js"></script>
+    <script src="js/action.js"></script>
+    <script>
+      window.onload=function(){
+        $('#hasilUtamaLengkap').hide();
+        $('#btnCari').css('visibility','hidden');
+      }
+    </script>
  
   </head>
   <body>
     <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
       <!-- header -->
       <header class="demo-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
+        <form method="get" action="" id="frmCari">
         <div class="mdl-layout__header-row">
           <!-- form cari -->
-          <form method="post" action="" id="frmCari">
           <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
             <label class="mdl-button mdl-js-button mdl-button--icon" for="search">
               <i class="material-icons">search</i>
@@ -51,12 +63,15 @@
               <label class="mdl-textfield__label" for="search">Enter your query...</label>
             </div>
           </div>
-          </form>
+          
+          <button class="mdl-button mdl-js-button mdl-button--icon" id="btnCari" for="frmCari">
+            <i class="material-icons">keyboard_return</i>
+          </button>
 
           <div class="mdl-layout-spacer"></div>
 
           <!-- menu -->
-          <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="hdrbtn">
+          <button type="button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="hdrbtn">
             <i class="material-icons">more_vert</i>
           </button>
           <ul class="mdl-menu mdl-js-menu mdl-js-ripple-effect mdl-menu--bottom-right" for="hdrbtn">
@@ -64,6 +79,7 @@
             <li class="mdl-menu__item">Kontak</li>
           </ul>
         </div>
+        </form>
       </header>
 
       <!-- menu -->
@@ -72,7 +88,10 @@
           <img src="images/swi.png" class="demo-avatar">
         </header>
         <nav class="demo-navigation mdl-navigation mdl-color--blue-grey-800">
-          <a class="mdl-navigation__link" href="">
+          <a class="mdl-navigation__link" href="index.php">
+            <i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">home</i>Beranda
+          </a>
+          <a class="mdl-navigation__link" href="?searchClass=Bahasa dan Sastra">
             <i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">language</i>Bahasa dan Sastra
           </a>
           <a class="mdl-navigation__link" href="">
@@ -109,14 +128,35 @@
       <main class="mdl-layout__content mdl-color--grey-100">
         <div class="mdl-grid demo-content">
 
-          <!-- hasil pencarian utama -->
-          <div class="demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid">
-            
-            <?php 
-              include_once "hasilUtama.php";
-             ?>
-            
+          <!-- hasil pencarian utama (Tampilan Lengkap)-->
+          <div class="demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid" id="hasilUtamaLengkap"> 
+            <table>
+              <?php
+                  include_once "hasilUtamaLengkap.php";
+              ?>
+            </table>
           </div>
+
+          <!-- hasil pencarian utama (Tampilan Sebagian)-->
+          <div class="demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid" id="hasilUtama">
+            <table>
+              <?php
+                include_once "hasilMemberClassUtama.php";
+                include_once "hasilMemberClass.php";
+                include_once "hasilUtama.php";
+              ?>
+            </table>
+          </div>
+
+          <?php
+          //ketika ada beberapa kemungkinan hasil pencarian, artikel terkait tdk ditampilkan
+          if ($_SESSION['wiki'] == 1 || $_SESSION['wiki'] == 0 || $_SESSION['wiki'] == 'tampilMemberClass' || $_SESSION['wiki'] == 'tampilMemberClassUtama') { 
+          ?>
+            
+          <?php
+          }
+          else{
+          ?>
 
           <!-- label artikel terkait -->
           <div class="demo-graphs mdl-color--white mdl-cell mdl-cell--12-col">
@@ -124,34 +164,39 @@
           </div>
 
           <!-- hasil pencarian terkait -->
-          <div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col">
-            
+          <div class='mdl-cell--8-col' style='margin-right:30px font-size:10px'>
+            <?php 
+              include_once "hasilTerkait.php";
+             ?>
           </div>
 
-          <div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
-            <div class="demo-updates mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop">
-            
-              <div class="mdl-card__supporting-text mdl-color-text--grey-600">
-                <b>Baca Juga ...</b>
-              </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a href="#" class="mdl-button mdl-js-button mdl-js-ripple-effect">Read More</a><br/>
-                <a href="#" class="mdl-button mdl-js-button mdl-js-ripple-effect">Read More</a>
+          <div class="mdl-cell--4-col">
+            <div class="demo-cards mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
+              <div class="demo-updates mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop">
+                <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                  <b>Kategori Terkait</b>
+                </div>
+                <div class="mdl-card__actions mdl-card--border">
+                  <table>
+                  <?php  
+                    include_once "hasilTerkaitClass.php";
+                  ?>
+                  </table>
+                </div>
               </div>
             </div>
           </div>
-
-          <!-- hasil pencarian terkait -->
-          <div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col">
-            
-          </div>
-
+          
+          <?php
+          }
+          ?>
 
         </div>
       </main>
 
     </div>
 
-    <script src="material.min.js"></script>
   </body>
+
 </html>
+<?php session_destroy() ?>

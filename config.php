@@ -9,5 +9,5 @@
 	
 	//file OWL pada server
     $sparql = new EasyRdf_Sparql_Client("http://localhost:8080/openrdf-sesame/repositories/wiki");
-	$ada = false;
+	$readMore = false;
 ?>
